@@ -580,9 +580,9 @@ minecraft:rabbit_stew, Rabbit Stew
 minecraft:rabbit_foot, Rabbit's Foot
 minecraft:rabbit_hide, Rabbit Hide
 minecraft:armor_stand, Armor Stand
-minecraft:iron_horse_armor, Iron Horse Armor
-minecraft:golden_horse_armor, Gold Horse Armor
-minecraft:diamond_horse_armor, Diamond Horse Armor
+minecraft:iron_horse_armor, Iron Pet Armor
+minecraft:golden_horse_armor, Golden Pet Armor
+minecraft:diamond_horse_armor, Diamond Pet Armor
 minecraft:lead, Lead
 minecraft:name_tag, Name Tag
 minecraft:command_block_minecart, Minecart with Command Block
@@ -4279,6 +4279,14 @@ ic2:fluid_cell:0, Universal Fluid Cell
 ic2:fluid_cell:0, Universal Fluid Cell
 ic2:fluid_cell:0, Universal Fluid Cell
 ic2:fluid_cell:0, Universal Fluid Cell
+ic2:fluid_cell:0, Universal Fluid Cell
+ic2:fluid_cell:0, Universal Fluid Cell
+ic2:fluid_cell:0, Universal Fluid Cell
+ic2:fluid_cell:0, Universal Fluid Cell
+ic2:fluid_cell:0, Universal Fluid Cell
+ic2:fluid_cell:0, Universal Fluid Cell
+ic2:fluid_cell:0, Universal Fluid Cell
+ic2:fluid_cell:0, Universal Fluid Cell
 ic2:cable:0, Copper Cable
 ic2:cable:0, Insulated Copper Cable
 ic2:cable:1, Glass Fibre Cable
@@ -5470,6 +5478,65 @@ appliedenergistics2:facade:0, Cable Facade - Infusion Speed Stone
 appliedenergistics2:facade:0, Cable Facade - Infusion Cost Stone
 appliedenergistics2:facade:0, Cable Facade - Vis Battery
 appliedenergistics2:facade:0, Cable Facade - Empty Space
+appliedenergistics2:facade:0, Cable Facade - Block of Smokey Quartz
+appliedenergistics2:facade:0, Cable Facade - Chiseled Smokey Quartz Block
+appliedenergistics2:facade:0, Cable Facade - Pillar Smokey Quartz Block
+appliedenergistics2:facade:0, Cable Facade - Block of Mana Quartz
+appliedenergistics2:facade:0, Cable Facade - Chiseled Mana Quartz Block
+appliedenergistics2:facade:0, Cable Facade - Pillar Mana Quartz Block
+appliedenergistics2:facade:0, Cable Facade - Block of Blaze Quartz
+appliedenergistics2:facade:0, Cable Facade - Chiseled Blaze Quartz Block
+appliedenergistics2:facade:0, Cable Facade - Pillar Blaze Quartz Block
+appliedenergistics2:facade:0, Cable Facade - Block of Lavender Quartz
+appliedenergistics2:facade:0, Cable Facade - Chiseled Lavender Quartz Block
+appliedenergistics2:facade:0, Cable Facade - Pillar Lavender Quartz Block
+appliedenergistics2:facade:0, Cable Facade - Block of Redquartz
+appliedenergistics2:facade:0, Cable Facade - Chiseled Redquartz Block
+appliedenergistics2:facade:0, Cable Facade - Pillar Redquartz Block
+appliedenergistics2:facade:0, Cable Facade - Block of Elven Quartz
+appliedenergistics2:facade:0, Cable Facade - Chiseled Elven Quartz Block
+appliedenergistics2:facade:0, Cable Facade - Pillar Elven Quartz Block
+appliedenergistics2:facade:0, Cable Facade - Block of Sunny Quartz
+appliedenergistics2:facade:0, Cable Facade - Chiseled Sunny Quartz Block
+appliedenergistics2:facade:0, Cable Facade - Pillar Sunny Quartz Block
+appliedenergistics2:facade:0, Cable Facade - Metamorphic Forest Stone
+appliedenergistics2:facade:0, Cable Facade - Metamorphic Plains Stone
+appliedenergistics2:facade:0, Cable Facade - Metamorphic Mountain Stone
+appliedenergistics2:facade:0, Cable Facade - Metamorphic Fungal Stone
+appliedenergistics2:facade:0, Cable Facade - Metamorphic Swamp Stone
+appliedenergistics2:facade:0, Cable Facade - Metamorphic Desert Stone
+appliedenergistics2:facade:0, Cable Facade - Metamorphic Taiga Stone
+appliedenergistics2:facade:0, Cable Facade - Metamorphic Mesa Stone
+appliedenergistics2:facade:0, Cable Facade - Metamorphic Forest Cobblestone
+appliedenergistics2:facade:0, Cable Facade - Metamorphic Plains Cobblestone
+appliedenergistics2:facade:0, Cable Facade - Metamorphic Mountain Cobblestone
+appliedenergistics2:facade:0, Cable Facade - Metamorphic Fungal Cobblestone
+appliedenergistics2:facade:0, Cable Facade - Metamorphic Swamp Cobblestone
+appliedenergistics2:facade:0, Cable Facade - Metamorphic Desert Cobblestone
+appliedenergistics2:facade:0, Cable Facade - Metamorphic Taiga Cobblestone
+appliedenergistics2:facade:0, Cable Facade - Metamorphic Mesa Cobblestone
+appliedenergistics2:facade:0, Cable Facade - Metamorphic Forest Stone Bricks
+appliedenergistics2:facade:0, Cable Facade - Metamorphic Plains Stone Bricks
+appliedenergistics2:facade:0, Cable Facade - Metamorphic Mountain Stone Bricks
+appliedenergistics2:facade:0, Cable Facade - Metamorphic Fungal Stone Bricks
+appliedenergistics2:facade:0, Cable Facade - Metamorphic Swamp Stone Bricks
+appliedenergistics2:facade:0, Cable Facade - Metamorphic Desert Stone Bricks
+appliedenergistics2:facade:0, Cable Facade - Metamorphic Taiga Stone Bricks
+appliedenergistics2:facade:0, Cable Facade - Metamorphic Mesa Stone Bricks
+appliedenergistics2:facade:0, Cable Facade - Chiseled Metamorphic Forest Stone Brick
+appliedenergistics2:facade:0, Cable Facade - Chiseled Metamorphic Plains Stone Brick
+appliedenergistics2:facade:0, Cable Facade - Chiseled Metamorphic Mountain Stone Brick
+appliedenergistics2:facade:0, Cable Facade - Chiseled Metamorphic Fungal Stone Brick
+appliedenergistics2:facade:0, Cable Facade - Chiseled Metamorphic Swamp Stone Brick
+appliedenergistics2:facade:0, Cable Facade - Chiseled Metamorphic Desert Stone Brick
+appliedenergistics2:facade:0, Cable Facade - Chiseled Metamorphic Taiga Stone Brick
+appliedenergistics2:facade:0, Cable Facade - Chiseled Metamorphic Mesa Stone Brick
+appliedenergistics2:facade:0, Cable Facade - White Portuguese Pavement
+appliedenergistics2:facade:0, Cable Facade - Black Portuguese Pavement
+appliedenergistics2:facade:0, Cable Facade - Blue Portuguese Pavement
+appliedenergistics2:facade:0, Cable Facade - Red Portuguese Pavement
+appliedenergistics2:facade:0, Cable Facade - Yellow Portuguese Pavement
+appliedenergistics2:facade:0, Cable Facade - Green Portuguese Pavement
 appliedenergistics2:facade:0, Cable Facade - Livingrock
 appliedenergistics2:facade:0, Cable Facade - Livingrock Brick
 appliedenergistics2:facade:0, Cable Facade - Mossy Livingrock Brick
@@ -5540,65 +5607,6 @@ appliedenergistics2:facade:0, Cable Facade - Vivid Grass
 appliedenergistics2:facade:0, Cable Facade - Scorched Grass
 appliedenergistics2:facade:0, Cable Facade - Infused Grass
 appliedenergistics2:facade:0, Cable Facade - Mutated Grass
-appliedenergistics2:facade:0, Cable Facade - Block of Smokey Quartz
-appliedenergistics2:facade:0, Cable Facade - Chiseled Smokey Quartz Block
-appliedenergistics2:facade:0, Cable Facade - Pillar Smokey Quartz Block
-appliedenergistics2:facade:0, Cable Facade - Block of Mana Quartz
-appliedenergistics2:facade:0, Cable Facade - Chiseled Mana Quartz Block
-appliedenergistics2:facade:0, Cable Facade - Pillar Mana Quartz Block
-appliedenergistics2:facade:0, Cable Facade - Block of Blaze Quartz
-appliedenergistics2:facade:0, Cable Facade - Chiseled Blaze Quartz Block
-appliedenergistics2:facade:0, Cable Facade - Pillar Blaze Quartz Block
-appliedenergistics2:facade:0, Cable Facade - Block of Lavender Quartz
-appliedenergistics2:facade:0, Cable Facade - Chiseled Lavender Quartz Block
-appliedenergistics2:facade:0, Cable Facade - Pillar Lavender Quartz Block
-appliedenergistics2:facade:0, Cable Facade - Block of Redquartz
-appliedenergistics2:facade:0, Cable Facade - Chiseled Redquartz Block
-appliedenergistics2:facade:0, Cable Facade - Pillar Redquartz Block
-appliedenergistics2:facade:0, Cable Facade - Block of Elven Quartz
-appliedenergistics2:facade:0, Cable Facade - Chiseled Elven Quartz Block
-appliedenergistics2:facade:0, Cable Facade - Pillar Elven Quartz Block
-appliedenergistics2:facade:0, Cable Facade - Block of Sunny Quartz
-appliedenergistics2:facade:0, Cable Facade - Chiseled Sunny Quartz Block
-appliedenergistics2:facade:0, Cable Facade - Pillar Sunny Quartz Block
-appliedenergistics2:facade:0, Cable Facade - Metamorphic Forest Stone
-appliedenergistics2:facade:0, Cable Facade - Metamorphic Plains Stone
-appliedenergistics2:facade:0, Cable Facade - Metamorphic Mountain Stone
-appliedenergistics2:facade:0, Cable Facade - Metamorphic Fungal Stone
-appliedenergistics2:facade:0, Cable Facade - Metamorphic Swamp Stone
-appliedenergistics2:facade:0, Cable Facade - Metamorphic Desert Stone
-appliedenergistics2:facade:0, Cable Facade - Metamorphic Taiga Stone
-appliedenergistics2:facade:0, Cable Facade - Metamorphic Mesa Stone
-appliedenergistics2:facade:0, Cable Facade - Metamorphic Forest Cobblestone
-appliedenergistics2:facade:0, Cable Facade - Metamorphic Plains Cobblestone
-appliedenergistics2:facade:0, Cable Facade - Metamorphic Mountain Cobblestone
-appliedenergistics2:facade:0, Cable Facade - Metamorphic Fungal Cobblestone
-appliedenergistics2:facade:0, Cable Facade - Metamorphic Swamp Cobblestone
-appliedenergistics2:facade:0, Cable Facade - Metamorphic Desert Cobblestone
-appliedenergistics2:facade:0, Cable Facade - Metamorphic Taiga Cobblestone
-appliedenergistics2:facade:0, Cable Facade - Metamorphic Mesa Cobblestone
-appliedenergistics2:facade:0, Cable Facade - Metamorphic Forest Stone Bricks
-appliedenergistics2:facade:0, Cable Facade - Metamorphic Plains Stone Bricks
-appliedenergistics2:facade:0, Cable Facade - Metamorphic Mountain Stone Bricks
-appliedenergistics2:facade:0, Cable Facade - Metamorphic Fungal Stone Bricks
-appliedenergistics2:facade:0, Cable Facade - Metamorphic Swamp Stone Bricks
-appliedenergistics2:facade:0, Cable Facade - Metamorphic Desert Stone Bricks
-appliedenergistics2:facade:0, Cable Facade - Metamorphic Taiga Stone Bricks
-appliedenergistics2:facade:0, Cable Facade - Metamorphic Mesa Stone Bricks
-appliedenergistics2:facade:0, Cable Facade - Chiseled Metamorphic Forest Stone Brick
-appliedenergistics2:facade:0, Cable Facade - Chiseled Metamorphic Plains Stone Brick
-appliedenergistics2:facade:0, Cable Facade - Chiseled Metamorphic Mountain Stone Brick
-appliedenergistics2:facade:0, Cable Facade - Chiseled Metamorphic Fungal Stone Brick
-appliedenergistics2:facade:0, Cable Facade - Chiseled Metamorphic Swamp Stone Brick
-appliedenergistics2:facade:0, Cable Facade - Chiseled Metamorphic Desert Stone Brick
-appliedenergistics2:facade:0, Cable Facade - Chiseled Metamorphic Taiga Stone Brick
-appliedenergistics2:facade:0, Cable Facade - Chiseled Metamorphic Mesa Stone Brick
-appliedenergistics2:facade:0, Cable Facade - White Portuguese Pavement
-appliedenergistics2:facade:0, Cable Facade - Black Portuguese Pavement
-appliedenergistics2:facade:0, Cable Facade - Blue Portuguese Pavement
-appliedenergistics2:facade:0, Cable Facade - Red Portuguese Pavement
-appliedenergistics2:facade:0, Cable Facade - Yellow Portuguese Pavement
-appliedenergistics2:facade:0, Cable Facade - Green Portuguese Pavement
 appliedenergistics2:facade:0, Cable Facade - Inflatable Castle
 appliedenergistics2:facade:0, Cable Facade - Inflatable Castle
 appliedenergistics2:facade:0, Cable Facade - Inflatable Castle
@@ -6250,6 +6258,79 @@ appliedenergistics2:facade:0, Cable Facade - White Crystal Block
 appliedenergistics2:facade:0, Cable Facade - Purple Crystal Block
 appliedenergistics2:facade:0, Cable Facade - Red Crystal Block
 appliedenergistics2:facade:0, Cable Facade - Structure Spawn Block
+appliedenergistics2:facade:0, Cable Facade - Ashenstone Brick
+appliedenergistics2:facade:0, Cable Facade - Ashenstone
+appliedenergistics2:facade:0, Cable Facade - Streamstone Pillar
+appliedenergistics2:facade:0, Cable Facade - Frostweb
+appliedenergistics2:facade:0, Cable Facade - Lushstone Pillar
+appliedenergistics2:facade:0, Cable Facade - Double Streamstone Slab
+appliedenergistics2:facade:0, Cable Facade - Demon Crystal
+appliedenergistics2:facade:0, Cable Facade - Shadow Crystal
+appliedenergistics2:facade:0, Cable Facade - Quickweb
+appliedenergistics2:facade:0, Cable Facade - Ashenstone Tile
+appliedenergistics2:facade:0, Cable Facade - Doomfire
+appliedenergistics2:facade:0, Cable Facade - Poop Cloud
+appliedenergistics2:facade:0, Cable Facade - Polished Desertstone
+appliedenergistics2:facade:0, Cable Facade - Chiseled Demonstone
+appliedenergistics2:facade:0, Cable Facade - Double Aberrantstone Slab
+appliedenergistics2:facade:0, Cable Facade - Desertstone Tile
+appliedenergistics2:facade:0, Cable Facade - Polished Lushstone
+appliedenergistics2:facade:0, Cable Facade - Double Desertstone Slab
+appliedenergistics2:facade:0, Cable Facade - Chiseled Desertstone
+appliedenergistics2:facade:0, Cable Facade - Aberrantstone
+appliedenergistics2:facade:0, Cable Facade - Polished Streamstone
+appliedenergistics2:facade:0, Cable Facade - Hellfire
+appliedenergistics2:facade:0, Cable Facade - Primefire
+appliedenergistics2:facade:0, Cable Facade - Double Shadowstone Slab
+appliedenergistics2:facade:0, Cable Facade - Chiseled Shadowstone
+appliedenergistics2:facade:0, Cable Facade - Icefire
+appliedenergistics2:facade:0, Cable Facade - Poison Cloud
+appliedenergistics2:facade:0, Cable Facade - Double Ashenstone Slab
+appliedenergistics2:facade:0, Cable Facade - Shadowfire
+appliedenergistics2:facade:0, Cable Facade - Shadowstone Tile
+appliedenergistics2:facade:0, Cable Facade - Aberrantstone Pillar
+appliedenergistics2:facade:0, Cable Facade - Lush Crystal
+appliedenergistics2:facade:0, Cable Facade - Desert Crystal
+appliedenergistics2:facade:0, Cable Facade - Chiseled Ashenstone
+appliedenergistics2:facade:0, Cable Facade - Aberrant Crystal
+appliedenergistics2:facade:0, Cable Facade - Propolis
+appliedenergistics2:facade:0, Cable Facade - Scorchfire
+appliedenergistics2:facade:0, Cable Facade - Demonstone Pillar
+appliedenergistics2:facade:0, Cable Facade - Chiseled Lushstone
+appliedenergistics2:facade:0, Cable Facade - Ashenstone Pillar
+appliedenergistics2:facade:0, Cable Facade - Aberrant Soulcube
+appliedenergistics2:facade:0, Cable Facade - Demonic Soulcube
+appliedenergistics2:facade:0, Cable Facade - Aberrantstone Brick
+appliedenergistics2:facade:0, Cable Facade - Polished Aberrantstone
+appliedenergistics2:facade:0, Cable Facade - Undead Soulcube
+appliedenergistics2:facade:0, Cable Facade - Frostcloud
+appliedenergistics2:facade:0, Cable Facade - Streamstone Tile
+appliedenergistics2:facade:0, Cable Facade - Desertstone
+appliedenergistics2:facade:0, Cable Facade - Shadowstone
+appliedenergistics2:facade:0, Cable Facade - Polished Shadowstone
+appliedenergistics2:facade:0, Cable Facade - Ashen Crystal
+appliedenergistics2:facade:0, Cable Facade - Shadowstone Brick
+appliedenergistics2:facade:0, Cable Facade - Lushstone Tile
+appliedenergistics2:facade:0, Cable Facade - Lushstone
+appliedenergistics2:facade:0, Cable Facade - Desertstone Pillar
+appliedenergistics2:facade:0, Cable Facade - Shadowstone Pillar
+appliedenergistics2:facade:0, Cable Facade - Lushstone Brick
+appliedenergistics2:facade:0, Cable Facade - Double Lushstone Slab
+appliedenergistics2:facade:0, Cable Facade - Demonstone Tile
+appliedenergistics2:facade:0, Cable Facade - Desertstone Brick
+appliedenergistics2:facade:0, Cable Facade - Double Demonstone Slab
+appliedenergistics2:facade:0, Cable Facade - Frostfire
+appliedenergistics2:facade:0, Cable Facade - Stream Crystal
+appliedenergistics2:facade:0, Cable Facade - Aberrantstone Tile
+appliedenergistics2:facade:0, Cable Facade - Streamstone Brick
+appliedenergistics2:facade:0, Cable Facade - Demonstone Brick
+appliedenergistics2:facade:0, Cable Facade - Veswax
+appliedenergistics2:facade:0, Cable Facade - Chiseled Streamstone
+appliedenergistics2:facade:0, Cable Facade - Polished Demonstone
+appliedenergistics2:facade:0, Cable Facade - Demonstone
+appliedenergistics2:facade:0, Cable Facade - Chiseled Aberrantstone
+appliedenergistics2:facade:0, Cable Facade - Polished Ashenstone
+appliedenergistics2:facade:0, Cable Facade - Streamstone
 appliedenergistics2:crystal_seed:0, Certus Quartz Seed
 appliedenergistics2:crystal_seed:600, Nether Quartz Seed
 appliedenergistics2:crystal_seed:1200, Fluix Seed
@@ -6691,6 +6772,494 @@ thaumcraft:seal:13, Control Seal: Use
 thaumcraft:seal:14, Control Seal: Provide
 thaumcraft:seal:15, Control Seal: Stock
 thaumcraft:seal:16, Control Seal: Advanced Block Breaker
+botania:livingwood0stairs, tile.livingwood0Stairs.name
+botania:livingwood0slab:0, Livingwood Slab
+botania:livingwood0wall, tile.livingwood0Wall.name
+botania:livingwood1stairs, tile.livingwood1Stairs.name
+botania:livingwood1slab:0, Livingwood Plank Slab
+botania:livingrock0stairs, tile.livingrock0Stairs.name
+botania:livingrock0slab:0, Livingrock Slab
+botania:livingrock0wall, tile.livingrock0Wall.name
+botania:livingrock1stairs, tile.livingrock1Stairs.name
+botania:livingrock1slab:0, Livingrock Brick Slab
+botania:dreamwood0stairs, tile.dreamwood0Stairs.name
+botania:dreamwood0slab:0, Dreamwood Slab
+botania:dreamwood0wall, tile.dreamwood0Wall.name
+botania:dreamwood1stairs, tile.dreamwood1Stairs.name
+botania:dreamwood1slab:0, Dreamwood Plank Slab
+botania:quartztypedark:0, Block of Smokey Quartz
+botania:quartztypedark:1, Chiseled Smokey Quartz Block
+botania:quartztypedark:2, Pillar Smokey Quartz Block
+botania:quartzslabdarkhalf:0, Smokey Quartz Slab
+botania:quartzstairsdark, tile.quartzStairsDark.name
+botania:quartztypemana:0, Block of Mana Quartz
+botania:quartztypemana:1, Chiseled Mana Quartz Block
+botania:quartztypemana:2, Pillar Mana Quartz Block
+botania:quartzslabmanahalf:0, Mana Quartz Slab
+botania:quartzstairsmana, tile.quartzStairsMana.name
+botania:quartztypeblaze:0, Block of Blaze Quartz
+botania:quartztypeblaze:1, Chiseled Blaze Quartz Block
+botania:quartztypeblaze:2, Pillar Blaze Quartz Block
+botania:quartzslabblazehalf:0, Blaze Quartz Slab
+botania:quartzstairsblaze, tile.quartzStairsBlaze.name
+botania:quartztypelavender:0, Block of Lavender Quartz
+botania:quartztypelavender:1, Chiseled Lavender Quartz Block
+botania:quartztypelavender:2, Pillar Lavender Quartz Block
+botania:quartzslablavenderhalf:0, Lavender Quartz Slab
+botania:quartzstairslavender, tile.quartzStairsLavender.name
+botania:quartztypered:0, Block of Redquartz
+botania:quartztypered:1, Chiseled Redquartz Block
+botania:quartztypered:2, Pillar Redquartz Block
+botania:quartzslabredhalf:0, Redquartz Slab
+botania:quartzstairsred, tile.quartzStairsRed.name
+botania:quartztypeelf:0, Block of Elven Quartz
+botania:quartztypeelf:1, Chiseled Elven Quartz Block
+botania:quartztypeelf:2, Pillar Elven Quartz Block
+botania:quartzslabelfhalf:0, Elven Quartz Slab
+botania:quartzstairself, tile.quartzStairsElf.name
+botania:quartztypesunny:0, Block of Sunny Quartz
+botania:quartztypesunny:1, Chiseled Sunny Quartz Block
+botania:quartztypesunny:2, Pillar Sunny Quartz Block
+botania:quartzslabsunnyhalf:0, Sunny Quartz Slab
+botania:quartzstairssunny, tile.quartzStairsSunny.name
+botania:biomestonea:0, Metamorphic Forest Stone
+botania:biomestonea:1, Metamorphic Plains Stone
+botania:biomestonea:2, Metamorphic Mountain Stone
+botania:biomestonea:3, Metamorphic Fungal Stone
+botania:biomestonea:4, Metamorphic Swamp Stone
+botania:biomestonea:5, Metamorphic Desert Stone
+botania:biomestonea:6, Metamorphic Taiga Stone
+botania:biomestonea:7, Metamorphic Mesa Stone
+botania:biomestonea:8, Metamorphic Forest Cobblestone
+botania:biomestonea:9, Metamorphic Plains Cobblestone
+botania:biomestonea:10, Metamorphic Mountain Cobblestone
+botania:biomestonea:11, Metamorphic Fungal Cobblestone
+botania:biomestonea:12, Metamorphic Swamp Cobblestone
+botania:biomestonea:13, Metamorphic Desert Cobblestone
+botania:biomestonea:14, Metamorphic Taiga Cobblestone
+botania:biomestonea:15, Metamorphic Mesa Cobblestone
+botania:biomestoneb:0, Metamorphic Forest Stone Bricks
+botania:biomestoneb:1, Metamorphic Plains Stone Bricks
+botania:biomestoneb:2, Metamorphic Mountain Stone Bricks
+botania:biomestoneb:3, Metamorphic Fungal Stone Bricks
+botania:biomestoneb:4, Metamorphic Swamp Stone Bricks
+botania:biomestoneb:5, Metamorphic Desert Stone Bricks
+botania:biomestoneb:6, Metamorphic Taiga Stone Bricks
+botania:biomestoneb:7, Metamorphic Mesa Stone Bricks
+botania:biomestoneb:8, Chiseled Metamorphic Forest Stone Brick
+botania:biomestoneb:9, Chiseled Metamorphic Plains Stone Brick
+botania:biomestoneb:10, Chiseled Metamorphic Mountain Stone Brick
+botania:biomestoneb:11, Chiseled Metamorphic Fungal Stone Brick
+botania:biomestoneb:12, Chiseled Metamorphic Swamp Stone Brick
+botania:biomestoneb:13, Chiseled Metamorphic Desert Stone Brick
+botania:biomestoneb:14, Chiseled Metamorphic Taiga Stone Brick
+botania:biomestoneb:15, Chiseled Metamorphic Mesa Stone Brick
+botania:pavement:0, White Portuguese Pavement
+botania:pavement:1, Black Portuguese Pavement
+botania:pavement:2, Blue Portuguese Pavement
+botania:pavement:3, Red Portuguese Pavement
+botania:pavement:4, Yellow Portuguese Pavement
+botania:pavement:5, Green Portuguese Pavement
+botania:biomestonea0stairs, tile.biomeStoneA0Stairs.name
+botania:biomestonea0slab:0, Metamorphic Forest Stone Slab
+botania:biomestonea1stairs, tile.biomeStoneA1Stairs.name
+botania:biomestonea1slab:0, Metamorphic Plains Stone Slab
+botania:biomestonea2stairs, tile.biomeStoneA2Stairs.name
+botania:biomestonea2slab:0, Metamorphic Mountain Stone Slab
+botania:biomestonea3stairs, tile.biomeStoneA3Stairs.name
+botania:biomestonea3slab:0, Metamorphic Fungal Stone Slab
+botania:biomestonea4stairs, tile.biomeStoneA4Stairs.name
+botania:biomestonea4slab:0, Metamorphic Swamp Stone Slab
+botania:biomestonea5stairs, tile.biomeStoneA5Stairs.name
+botania:biomestonea5slab:0, Metamorphic Desert Stone Slab
+botania:biomestonea6stairs, tile.biomeStoneA6Stairs.name
+botania:biomestonea6slab:0, Metamorphic Taiga Stone Slab
+botania:biomestonea7stairs, tile.biomeStoneA7Stairs.name
+botania:biomestonea7slab:0, Metamorphic Mesa Stone Slab
+botania:biomestonea8stairs, tile.biomeStoneA8Stairs.name
+botania:biomestonea8slab:0, Metamorphic Forest Cobblestone Slab
+botania:biomestonea9stairs, tile.biomeStoneA9Stairs.name
+botania:biomestonea9slab:0, Metamorphic Plains Cobblestone Slab
+botania:biomestonea10stairs, tile.biomeStoneA10Stairs.name
+botania:biomestonea10slab:0, Metamorphic Mountain Cobblestone Slab
+botania:biomestonea11stairs, tile.biomeStoneA11Stairs.name
+botania:biomestonea11slab:0, Metamorphic Fungal Cobblestone Slab
+botania:biomestonea12stairs, tile.biomeStoneA12Stairs.name
+botania:biomestonea12slab:0, Metamorphic Swamp Cobblestone Slab
+botania:biomestonea13stairs, tile.biomeStoneA13Stairs.name
+botania:biomestonea13slab:0, Metamorphic Desert Cobblestone Slab
+botania:biomestonea14stairs, tile.biomeStoneA14Stairs.name
+botania:biomestonea14slab:0, Metamorphic Taiga Cobblestone Slab
+botania:biomestonea15stairs, tile.biomeStoneA15Stairs.name
+botania:biomestonea15slab:0, Metamorphic Mesa Cobblestone Slab
+botania:biomestoneb0stairs, tile.biomeStoneB0Stairs.name
+botania:biomestoneb0slab:0, Metamorphic Forest Stone Brick Slab
+botania:biomestoneb1stairs, tile.biomeStoneB1Stairs.name
+botania:biomestoneb1slab:0, Metamorphic Plains Stone Brick Slab
+botania:biomestoneb2stairs, tile.biomeStoneB2Stairs.name
+botania:biomestoneb2slab:0, Metamorphic Mountain Stone Brick Slab
+botania:biomestoneb3stairs, tile.biomeStoneB3Stairs.name
+botania:biomestoneb3slab:0, Metamorphic Fungal Stone Brick Slab
+botania:biomestoneb4stairs, tile.biomeStoneB4Stairs.name
+botania:biomestoneb4slab:0, Metamorphic Swamp Stone Brick Slab
+botania:biomestoneb5stairs, tile.biomeStoneB5Stairs.name
+botania:biomestoneb5slab:0, Metamorphic Desert Stone Brick Slab
+botania:biomestoneb6stairs, tile.biomeStoneB6Stairs.name
+botania:biomestoneb6slab:0, Metamorphic Taiga Stone Brick Slab
+botania:biomestoneb7stairs, tile.biomeStoneB7Stairs.name
+botania:biomestoneb7slab:0, Metamorphic Mesa Stone Bricks Slab
+botania:biomestonea0wall:0, Metamorphic Forest Cobblestone Wall
+botania:biomestonea0wall:1, Metamorphic Plains Cobblestone Wall
+botania:biomestonea0wall:2, Metamorphic Mountain Cobblestone Wall
+botania:biomestonea0wall:3, Metamorphic Fungal Cobblestone Wall
+botania:biomestonea0wall:4, Metamorphic Swamp Cobblestone Wall
+botania:biomestonea0wall:5, Metamorphic Desert Cobblestone Wall
+botania:biomestonea0wall:6, Metamorphic Taiga Cobblestone Wall
+botania:biomestonea0wall:7, Metamorphic Mesa Cobblestone Wall
+botania:pavement0stairs, tile.pavement0Stairs.name
+botania:pavement0slab:0, White Portuguese Pavement Slab
+botania:pavement1stairs, tile.pavement1Stairs.name
+botania:pavement1slab:0, Black Portuguese Pavement Slab
+botania:pavement2stairs, tile.pavement2Stairs.name
+botania:pavement2slab:0, Blue Portuguese Pavement Slab
+botania:pavement3stairs, tile.pavement3Stairs.name
+botania:pavement3slab:0, Red Portuguese Pavement Slab
+botania:pavement4stairs, tile.pavement4Stairs.name
+botania:pavement4slab:0, Yellow Portuguese Pavement Slab
+botania:pavement5stairs, tile.pavement5Stairs.name
+botania:pavement5slab:0, Green Portuguese Pavement Slab
+botania:shimmerrock0slab:0, Shimmerrock Slab
+botania:shimmerrock0stairs, tile.shimmerrock0Stairs.name
+botania:shimmerwoodplanks0slab:0, Shimmerwood Plank Slab
+botania:shimmerwoodplanks0stairs, tile.shimmerwoodPlanks0Stairs.name
+botania:managlasspane, tile.manaGlassPane.name
+botania:elfglasspane, tile.elfGlassPane.name
+botania:bifrostpermpane, tile.bifrostPermPane.name
+botania:flower:0, Mystical White Flower
+botania:flower:1, Mystical Orange Flower
+botania:flower:2, Mystical Magenta Flower
+botania:flower:3, Mystical Light Blue Flower
+botania:flower:4, Mystical Yellow Flower
+botania:flower:5, Mystical Lime Flower
+botania:flower:6, Mystical Pink Flower
+botania:flower:7, Mystical Gray Flower
+botania:flower:8, Mystical Light Gray Flower
+botania:flower:9, Mystical Cyan Flower
+botania:flower:10, Mystical Purple Flower
+botania:flower:11, Mystical Blue Flower
+botania:flower:12, Mystical Brown Flower
+botania:flower:13, Mystical Green Flower
+botania:flower:14, Mystical Red Flower
+botania:flower:15, Mystical Black Flower
+botania:altar:0, Petal Apothecary
+botania:altar:1, Forest Petal Apothecary
+botania:altar:2, Plains Petal Apothecary
+botania:altar:3, Mountain Petal Apothecary
+botania:altar:4, Fungal Petal Apothecary
+botania:altar:5, Swamp Petal Apothecary
+botania:altar:6, Desert Petal Apothecary
+botania:altar:7, Taiga Petal Apothecary
+botania:altar:8, Mesa Petal Apothecary
+botania:livingrock:0, Livingrock
+botania:livingrock:1, Livingrock Brick
+botania:livingrock:2, Mossy Livingrock Brick
+botania:livingrock:3, Cracked Livingrock Brick
+botania:livingrock:4, Chiseled Livingrock Brick
+botania:livingwood:0, Livingwood
+botania:livingwood:1, Livingwood Planks
+botania:livingwood:2, Mossy Livingwood Planks
+botania:livingwood:3, Framed Livingwood
+botania:livingwood:4, Pattern Framed Livingwood
+botania:livingwood:5, Glimmering Livingwood
+botania:specialflower:0, Pure Daisy
+botania:specialflower:0, Manastar
+botania:specialflower:0, Endoflame
+botania:specialflower:0, Hydroangeas
+botania:specialflower:0, Thermalily
+botania:specialflower:0, Rosa Arcana
+botania:specialflower:0, Munchdew
+botania:specialflower:0, Entropinnyum
+botania:specialflower:0, Kekimurus
+botania:specialflower:0, Gourmaryllis
+botania:specialflower:0, Narslimmus
+botania:specialflower:0, Spectrolus
+botania:specialflower:0, Rafflowsia
+botania:specialflower:0, Shulk Me Not
+botania:specialflower:0, Dandelifeon
+botania:specialflower:0, Jaded Amaranthus
+botania:specialflower:0, Bellethorne
+botania:specialflower:0, Bellethorne Petite
+botania:specialflower:0, Dreadthorne
+botania:specialflower:0, Heisei Dream
+botania:specialflower:0, Tigerseye
+botania:specialflower:0, Marimorphosis
+botania:specialflower:0, Marimorphosis Petite
+botania:specialflower:0, Orechid
+botania:specialflower:0, Orechid Ignem
+botania:specialflower:0, Fallen Kanade
+botania:specialflower:0, Exoflame
+botania:specialflower:0, Agricarnation
+botania:specialflower:0, Agricarnation Petite
+botania:specialflower:0, Hopperhock
+botania:specialflower:0, Hopperhock Petite
+botania:specialflower:0, Rannuncarpus
+botania:specialflower:0, Rannuncarpus Petite
+botania:specialflower:0, Tangleberrie
+botania:specialflower:0, Jiyuulia
+botania:specialflower:0, Hyacidus
+botania:specialflower:0, Medumone
+botania:specialflower:0, Pollidisiac
+botania:specialflower:0, Clayconia
+botania:specialflower:0, Clayconia Petite
+botania:specialflower:0, Loonium
+botania:specialflower:0, Daffomill
+botania:specialflower:0, Vinculotus
+botania:specialflower:0, Spectranthemum
+botania:specialflower:0, Bubbell
+botania:specialflower:0, Bubbell Petite
+botania:specialflower:0, Solegnolia
+botania:specialflower:0, Solegnolia Petite
+botania:specialflower:0, Bergamute
+botania:spreader:0, Mana Spreader
+botania:spreader:1, Pulse Mana Spreader
+botania:spreader:2, Elven Mana Spreader
+botania:spreader:3, Gaia Mana Spreader
+botania:pool:0, Mana Pool
+botania:pool:2, Diluted Mana Pool
+botania:pool:3, Fabulous Mana Pool
+botania:pool:1, The Everlasting Guilty Pool
+botania:runealtar, tile.runeAltar.name
+botania:pylon:0, Mana Pylon
+botania:pylon:1, Natura Pylon
+botania:pylon:2, Gaia Pylon
+botania:pistonrelay, tile.pistonRelay.name
+botania:distributor, tile.distributor.name
+botania:manavoid, tile.manaVoid.name
+botania:manadetector, tile.manaDetector.name
+botania:enchanter, tile.enchanter.name
+botania:turntable, tile.turntable.name
+botania:tinyplanetblock, tile.tinyPlanetBlock.name
+botania:alchemycatalyst, tile.alchemyCatalyst.name
+botania:opencrate:0, Open Crate
+botania:opencrate:1, Crafty Crate
+botania:foresteye, tile.forestEye.name
+botania:storage:0, Block of Manasteel
+botania:storage:1, Block of Terrasteel
+botania:storage:2, Block of Elementium
+botania:storage:3, Block of Mana Diamond
+botania:storage:4, Block of Dragonstone
+botania:forestdrum:0, Drum of the Wild
+botania:forestdrum:1, Drum of the Gathering
+botania:forestdrum:2, Drum of the Canopy
+botania:shinyflower:0, Glimmering White Flower
+botania:shinyflower:1, Glimmering Orange Flower
+botania:shinyflower:2, Glimmering Magenta Flower
+botania:shinyflower:3, Glimmering Light Blue Flower
+botania:shinyflower:4, Glimmering Yellow Flower
+botania:shinyflower:5, Glimmering Lime Flower
+botania:shinyflower:6, Glimmering Pink Flower
+botania:shinyflower:7, Glimmering Gray Flower
+botania:shinyflower:8, Glimmering Light Gray Flower
+botania:shinyflower:9, Glimmering Cyan Flower
+botania:shinyflower:10, Glimmering Purple Flower
+botania:shinyflower:11, Glimmering Blue Flower
+botania:shinyflower:12, Glimmering Brown Flower
+botania:shinyflower:13, Glimmering Green Flower
+botania:shinyflower:14, Glimmering Red Flower
+botania:shinyflower:15, Glimmering Black Flower
+botania:platform:0, Abstruse Platform
+botania:platform:1, Spectral Platform
+botania:platform:2, Infrangible Platform
+botania:alfheimportal, tile.alfheimPortal.name
+botania:dreamwood:0, Dreamwood
+botania:dreamwood:1, Dreamwood Planks
+botania:dreamwood:2, Mossy Dreamwood Planks
+botania:dreamwood:3, Framed Dreamwood
+botania:dreamwood:4, Pattern Framed Dreamwood
+botania:dreamwood:5, Glimmering Dreamwood
+botania:conjurationcatalyst, tile.conjurationCatalyst.name
+botania:bifrost, tile.bifrost.name
+botania:miniisland:0, Floating White Flower
+botania:miniisland:1, Floating Orange Flower
+botania:miniisland:2, Floating Magenta Flower
+botania:miniisland:3, Floating Light Blue Flower
+botania:miniisland:4, Floating Yellow Flower
+botania:miniisland:5, Floating Lime Flower
+botania:miniisland:6, Floating Pink Flower
+botania:miniisland:7, Floating Gray Flower
+botania:miniisland:8, Floating Light Gray Flower
+botania:miniisland:9, Floating Cyan Flower
+botania:miniisland:10, Floating Purple Flower
+botania:miniisland:11, Floating Blue Flower
+botania:miniisland:12, Floating Brown Flower
+botania:miniisland:13, Floating Green Flower
+botania:miniisland:14, Floating Red Flower
+botania:miniisland:15, Floating Black Flower
+botania:tinypotato, tile.tinyPotato.name
+botania:spawnerclaw, tile.spawnerClaw.name
+botania:custombrick:0, Azulejo
+botania:custombrick:1, Azulejo
+botania:custombrick:2, Azulejo
+botania:custombrick:3, Azulejo
+botania:custombrick:4, Azulejo
+botania:custombrick:5, Azulejo
+botania:custombrick:6, Azulejo
+botania:custombrick:7, Azulejo
+botania:custombrick:8, Azulejo
+botania:custombrick:9, Azulejo
+botania:custombrick:10, Azulejo
+botania:custombrick:11, Azulejo
+botania:custombrick:12, Azulejo
+botania:custombrick:13, Azulejo
+botania:custombrick:14, Azulejo
+botania:custombrick:15, Azulejo
+botania:endereyeblock, tile.enderEyeBlock.name
+botania:starfield, tile.starfield.name
+botania:rfgenerator, tile.rfGenerator.name
+botania:elfglass, tile.elfGlass.name
+botania:brewery, tile.brewery.name
+botania:managlass, tile.manaGlass.name
+botania:terraplate, tile.terraPlate.name
+botania:redstringcontainer, tile.redStringContainer.name
+botania:redstringdispenser, tile.redStringDispenser.name
+botania:redstringfertilizer, tile.redStringFertilizer.name
+botania:redstringcomparator, tile.redStringComparator.name
+botania:redstringrelay, tile.redStringRelay.name
+botania:floatingspecialflower:0, Floating Pure Daisy
+botania:floatingspecialflower:0, Floating Manastar
+botania:floatingspecialflower:0, Floating Endoflame
+botania:floatingspecialflower:0, Floating Hydroangeas
+botania:floatingspecialflower:0, Floating Thermalily
+botania:floatingspecialflower:0, Floating Rosa Arcana
+botania:floatingspecialflower:0, Floating Munchdew
+botania:floatingspecialflower:0, Floating Entropinnyum
+botania:floatingspecialflower:0, Floating Kekimurus
+botania:floatingspecialflower:0, Floating Gourmaryllis
+botania:floatingspecialflower:0, Floating Narslimmus
+botania:floatingspecialflower:0, Floating Spectrolus
+botania:floatingspecialflower:0, Floating Rafflowsia
+botania:floatingspecialflower:0, Floating Shulk Me Not
+botania:floatingspecialflower:0, Floating Dandelifeon
+botania:floatingspecialflower:0, Floating Jaded Amaranthus
+botania:floatingspecialflower:0, Floating Bellethorne
+botania:floatingspecialflower:0, Floating Bellethorne Petite
+botania:floatingspecialflower:0, Floating Dreadthorne
+botania:floatingspecialflower:0, Floating Heisei Dream
+botania:floatingspecialflower:0, Floating Tigerseye
+botania:floatingspecialflower:0, Floating Marimorphosis
+botania:floatingspecialflower:0, Floating Marimorphosis Petite
+botania:floatingspecialflower:0, Floating Orechid
+botania:floatingspecialflower:0, Floating Orechid Ignem
+botania:floatingspecialflower:0, Floating Fallen Kanade
+botania:floatingspecialflower:0, Floating Exoflame
+botania:floatingspecialflower:0, Floating Agricarnation
+botania:floatingspecialflower:0, Floating Agricarnation Petite
+botania:floatingspecialflower:0, Floating Hopperhock
+botania:floatingspecialflower:0, Floating Hopperhock Petite
+botania:floatingspecialflower:0, Floating Rannuncarpus
+botania:floatingspecialflower:0, Floating Rannuncarpus Petite
+botania:floatingspecialflower:0, Floating Tangleberrie
+botania:floatingspecialflower:0, Floating Jiyuulia
+botania:floatingspecialflower:0, Floating Hyacidus
+botania:floatingspecialflower:0, Floating Medumone
+botania:floatingspecialflower:0, Floating Pollidisiac
+botania:floatingspecialflower:0, Floating Clayconia
+botania:floatingspecialflower:0, Floating Clayconia Petite
+botania:floatingspecialflower:0, Floating Loonium
+botania:floatingspecialflower:0, Floating Daffomill
+botania:floatingspecialflower:0, Floating Vinculotus
+botania:floatingspecialflower:0, Floating Spectranthemum
+botania:floatingspecialflower:0, Floating Bubbell
+botania:floatingspecialflower:0, Floating Bubbell Petite
+botania:floatingspecialflower:0, Floating Solegnolia
+botania:floatingspecialflower:0, Floating Solegnolia Petite
+botania:floatingspecialflower:0, Floating Bergamute
+botania:prism, tile.prism.name
+botania:enchantedsoil, tile.enchantedSoil.name
+botania:petalblock:0, White Petal Block
+botania:petalblock:1, Orange Petal Block
+botania:petalblock:2, Magenta Petal Block
+botania:petalblock:3, Light Blue Petal Block
+botania:petalblock:4, Yellow Petal Block
+botania:petalblock:5, Lime Petal Block
+botania:petalblock:6, Pink Petal Block
+botania:petalblock:7, Gray Petal Block
+botania:petalblock:8, Light Gray Petal Block
+botania:petalblock:9, Cyan Petal Block
+botania:petalblock:10, Purple Petal Block
+botania:petalblock:11, Blue Petal Block
+botania:petalblock:12, Brown Petal Block
+botania:petalblock:13, Green Petal Block
+botania:petalblock:14, Red Petal Block
+botania:petalblock:15, Black Petal Block
+botania:corporeaindex, tile.corporeaIndex.name
+botania:corporeafunnel, tile.corporeaFunnel.name
+botania:mushroom:0, White Shimmering Mushroom
+botania:mushroom:1, Orange Shimmering Mushroom
+botania:mushroom:2, Magenta Shimmering Mushroom
+botania:mushroom:3, Light Blue Shimmering Mushroom
+botania:mushroom:4, Yellow Shimmering Mushroom
+botania:mushroom:5, Lime Shimmering Mushroom
+botania:mushroom:6, Pink Shimmering Mushroom
+botania:mushroom:7, Gray Shimmering Mushroom
+botania:mushroom:8, Light Gray Shimmering Mushroom
+botania:mushroom:9, Cyan Shimmering Mushroom
+botania:mushroom:10, Purple Shimmering Mushroom
+botania:mushroom:11, Blue Shimmering Mushroom
+botania:mushroom:12, Brown Shimmering Mushroom
+botania:mushroom:13, Green Shimmering Mushroom
+botania:mushroom:14, Red Shimmering Mushroom
+botania:mushroom:15, Black Shimmering Mushroom
+botania:pump, tile.pump.name
+botania:doubleflower1:0, Tall Mystical White Flower
+botania:doubleflower1:1, Tall Mystical Orange Flower
+botania:doubleflower1:2, Tall Mystical Magenta Flower
+botania:doubleflower1:3, Tall Mystical Light Blue Flower
+botania:doubleflower1:4, Tall Mystical Yellow Flower
+botania:doubleflower1:5, Tall Mystical Lime Flower
+botania:doubleflower1:6, Tall Mystical Pink Flower
+botania:doubleflower1:7, Tall Mystical Gray Flower
+botania:doubleflower2:0, Tall Mystical Light Gray Flower
+botania:doubleflower2:1, Tall Mystical Cyan Flower
+botania:doubleflower2:2, Tall Mystical Purple Flower
+botania:doubleflower2:3, Tall Mystical Blue Flower
+botania:doubleflower2:4, Tall Mystical Brown Flower
+botania:doubleflower2:5, Tall Mystical Green Flower
+botania:doubleflower2:6, Tall Mystical Red Flower
+botania:doubleflower2:7, Tall Mystical Black Flower
+botania:blazeblock, tile.blazeBlock.name
+botania:corporeainterceptor, tile.corporeaInterceptor.name
+botania:corporeacrystalcube, tile.corporeaCrystalCube.name
+botania:incenseplate, tile.incensePlate.name
+botania:hourglass, tile.hourglass.name
+botania:ghostrail, tile.ghostRail.name
+botania:sparkchanger, tile.sparkChanger.name
+botania:root, tile.root.name
+botania:felpumpkin, tile.felPumpkin.name
+botania:cocoon, tile.cocoon.name
+botania:lightrelay:0, Luminizer
+botania:lightrelay:1, Detector Luminizer
+botania:lightrelay:2, Fork Luminizer
+botania:lightrelay:3, Toggle Luminizer
+botania:lightlauncher, tile.lightLauncher.name
+botania:manabomb, tile.manaBomb.name
+botania:cacophoniumblock, tile.cacophoniumBlock.name
+botania:bellows, Arcane Bellows
+botania:bifrostperm, tile.bifrostPerm.name
+botania:cellblock, tile.cellBlock.name
+botania:redstringinterceptor, tile.redStringInterceptor.name
+botania:corporearetainer, tile.corporeaRetainer.name
+botania:teruterubozu, tile.teruTeruBozu.name
+botania:shimmerrock, tile.shimmerrock.name
+botania:shimmerwoodplanks, tile.shimmerwoodPlanks.name
+botania:avatar, tile.avatar.name
+botania:altgrass:0, Dry Grass
+botania:altgrass:1, Golden Grass
+botania:altgrass:2, Vivid Grass
+botania:altgrass:3, Scorched Grass
+botania:altgrass:4, Infused Grass
+botania:altgrass:5, Mutated Grass
+botania:animatedtorch, tile.animatedTorch.name
 botania:lexicon, item.lexicon.name
 botania:petal:0, Mystical White Petal
 botania:petal:1, Mystical Orange Petal
@@ -7026,494 +7595,6 @@ botania:supercloudpendant, item.superCloudPendant.name
 botania:thirdeye, item.thirdEye.name
 botania:astrolabe, item.astrolabe.name
 botania:goddesscharm, item.goddessCharm.name
-botania:flower:0, Mystical White Flower
-botania:flower:1, Mystical Orange Flower
-botania:flower:2, Mystical Magenta Flower
-botania:flower:3, Mystical Light Blue Flower
-botania:flower:4, Mystical Yellow Flower
-botania:flower:5, Mystical Lime Flower
-botania:flower:6, Mystical Pink Flower
-botania:flower:7, Mystical Gray Flower
-botania:flower:8, Mystical Light Gray Flower
-botania:flower:9, Mystical Cyan Flower
-botania:flower:10, Mystical Purple Flower
-botania:flower:11, Mystical Blue Flower
-botania:flower:12, Mystical Brown Flower
-botania:flower:13, Mystical Green Flower
-botania:flower:14, Mystical Red Flower
-botania:flower:15, Mystical Black Flower
-botania:altar:0, Petal Apothecary
-botania:altar:1, Forest Petal Apothecary
-botania:altar:2, Plains Petal Apothecary
-botania:altar:3, Mountain Petal Apothecary
-botania:altar:4, Fungal Petal Apothecary
-botania:altar:5, Swamp Petal Apothecary
-botania:altar:6, Desert Petal Apothecary
-botania:altar:7, Taiga Petal Apothecary
-botania:altar:8, Mesa Petal Apothecary
-botania:livingrock:0, Livingrock
-botania:livingrock:1, Livingrock Brick
-botania:livingrock:2, Mossy Livingrock Brick
-botania:livingrock:3, Cracked Livingrock Brick
-botania:livingrock:4, Chiseled Livingrock Brick
-botania:livingwood:0, Livingwood
-botania:livingwood:1, Livingwood Planks
-botania:livingwood:2, Mossy Livingwood Planks
-botania:livingwood:3, Framed Livingwood
-botania:livingwood:4, Pattern Framed Livingwood
-botania:livingwood:5, Glimmering Livingwood
-botania:specialflower:0, Pure Daisy
-botania:specialflower:0, Manastar
-botania:specialflower:0, Endoflame
-botania:specialflower:0, Hydroangeas
-botania:specialflower:0, Thermalily
-botania:specialflower:0, Rosa Arcana
-botania:specialflower:0, Munchdew
-botania:specialflower:0, Entropinnyum
-botania:specialflower:0, Kekimurus
-botania:specialflower:0, Gourmaryllis
-botania:specialflower:0, Narslimmus
-botania:specialflower:0, Spectrolus
-botania:specialflower:0, Rafflowsia
-botania:specialflower:0, Shulk Me Not
-botania:specialflower:0, Dandelifeon
-botania:specialflower:0, Jaded Amaranthus
-botania:specialflower:0, Bellethorne
-botania:specialflower:0, Bellethorne Petite
-botania:specialflower:0, Dreadthorne
-botania:specialflower:0, Heisei Dream
-botania:specialflower:0, Tigerseye
-botania:specialflower:0, Marimorphosis
-botania:specialflower:0, Marimorphosis Petite
-botania:specialflower:0, Orechid
-botania:specialflower:0, Orechid Ignem
-botania:specialflower:0, Fallen Kanade
-botania:specialflower:0, Exoflame
-botania:specialflower:0, Agricarnation
-botania:specialflower:0, Agricarnation Petite
-botania:specialflower:0, Hopperhock
-botania:specialflower:0, Hopperhock Petite
-botania:specialflower:0, Rannuncarpus
-botania:specialflower:0, Rannuncarpus Petite
-botania:specialflower:0, Tangleberrie
-botania:specialflower:0, Jiyuulia
-botania:specialflower:0, Hyacidus
-botania:specialflower:0, Medumone
-botania:specialflower:0, Pollidisiac
-botania:specialflower:0, Clayconia
-botania:specialflower:0, Clayconia Petite
-botania:specialflower:0, Loonium
-botania:specialflower:0, Daffomill
-botania:specialflower:0, Vinculotus
-botania:specialflower:0, Spectranthemum
-botania:specialflower:0, Bubbell
-botania:specialflower:0, Bubbell Petite
-botania:specialflower:0, Solegnolia
-botania:specialflower:0, Solegnolia Petite
-botania:specialflower:0, Bergamute
-botania:spreader:0, Mana Spreader
-botania:spreader:1, Pulse Mana Spreader
-botania:spreader:2, Elven Mana Spreader
-botania:spreader:3, Gaia Mana Spreader
-botania:pool:0, Mana Pool
-botania:pool:2, Diluted Mana Pool
-botania:pool:3, Fabulous Mana Pool
-botania:pool:1, The Everlasting Guilty Pool
-botania:runealtar, tile.runeAltar.name
-botania:pylon:0, Mana Pylon
-botania:pylon:1, Natura Pylon
-botania:pylon:2, Gaia Pylon
-botania:pistonrelay, tile.pistonRelay.name
-botania:distributor, tile.distributor.name
-botania:manavoid, tile.manaVoid.name
-botania:manadetector, tile.manaDetector.name
-botania:enchanter, tile.enchanter.name
-botania:turntable, tile.turntable.name
-botania:tinyplanetblock, tile.tinyPlanetBlock.name
-botania:alchemycatalyst, tile.alchemyCatalyst.name
-botania:opencrate:0, Open Crate
-botania:opencrate:1, Crafty Crate
-botania:foresteye, tile.forestEye.name
-botania:storage:0, Block of Manasteel
-botania:storage:1, Block of Terrasteel
-botania:storage:2, Block of Elementium
-botania:storage:3, Block of Mana Diamond
-botania:storage:4, Block of Dragonstone
-botania:forestdrum:0, Drum of the Wild
-botania:forestdrum:1, Drum of the Gathering
-botania:forestdrum:2, Drum of the Canopy
-botania:shinyflower:0, Glimmering White Flower
-botania:shinyflower:1, Glimmering Orange Flower
-botania:shinyflower:2, Glimmering Magenta Flower
-botania:shinyflower:3, Glimmering Light Blue Flower
-botania:shinyflower:4, Glimmering Yellow Flower
-botania:shinyflower:5, Glimmering Lime Flower
-botania:shinyflower:6, Glimmering Pink Flower
-botania:shinyflower:7, Glimmering Gray Flower
-botania:shinyflower:8, Glimmering Light Gray Flower
-botania:shinyflower:9, Glimmering Cyan Flower
-botania:shinyflower:10, Glimmering Purple Flower
-botania:shinyflower:11, Glimmering Blue Flower
-botania:shinyflower:12, Glimmering Brown Flower
-botania:shinyflower:13, Glimmering Green Flower
-botania:shinyflower:14, Glimmering Red Flower
-botania:shinyflower:15, Glimmering Black Flower
-botania:platform:0, Abstruse Platform
-botania:platform:1, Spectral Platform
-botania:platform:2, Infrangible Platform
-botania:alfheimportal, tile.alfheimPortal.name
-botania:dreamwood:0, Dreamwood
-botania:dreamwood:1, Dreamwood Planks
-botania:dreamwood:2, Mossy Dreamwood Planks
-botania:dreamwood:3, Framed Dreamwood
-botania:dreamwood:4, Pattern Framed Dreamwood
-botania:dreamwood:5, Glimmering Dreamwood
-botania:conjurationcatalyst, tile.conjurationCatalyst.name
-botania:bifrost, tile.bifrost.name
-botania:miniisland:0, Floating White Flower
-botania:miniisland:1, Floating Orange Flower
-botania:miniisland:2, Floating Magenta Flower
-botania:miniisland:3, Floating Light Blue Flower
-botania:miniisland:4, Floating Yellow Flower
-botania:miniisland:5, Floating Lime Flower
-botania:miniisland:6, Floating Pink Flower
-botania:miniisland:7, Floating Gray Flower
-botania:miniisland:8, Floating Light Gray Flower
-botania:miniisland:9, Floating Cyan Flower
-botania:miniisland:10, Floating Purple Flower
-botania:miniisland:11, Floating Blue Flower
-botania:miniisland:12, Floating Brown Flower
-botania:miniisland:13, Floating Green Flower
-botania:miniisland:14, Floating Red Flower
-botania:miniisland:15, Floating Black Flower
-botania:tinypotato, tile.tinyPotato.name
-botania:spawnerclaw, tile.spawnerClaw.name
-botania:custombrick:0, Azulejo
-botania:custombrick:1, Azulejo
-botania:custombrick:2, Azulejo
-botania:custombrick:3, Azulejo
-botania:custombrick:4, Azulejo
-botania:custombrick:5, Azulejo
-botania:custombrick:6, Azulejo
-botania:custombrick:7, Azulejo
-botania:custombrick:8, Azulejo
-botania:custombrick:9, Azulejo
-botania:custombrick:10, Azulejo
-botania:custombrick:11, Azulejo
-botania:custombrick:12, Azulejo
-botania:custombrick:13, Azulejo
-botania:custombrick:14, Azulejo
-botania:custombrick:15, Azulejo
-botania:endereyeblock, tile.enderEyeBlock.name
-botania:starfield, tile.starfield.name
-botania:rfgenerator, tile.rfGenerator.name
-botania:elfglass, tile.elfGlass.name
-botania:brewery, tile.brewery.name
-botania:managlass, tile.manaGlass.name
-botania:terraplate, tile.terraPlate.name
-botania:redstringcontainer, tile.redStringContainer.name
-botania:redstringdispenser, tile.redStringDispenser.name
-botania:redstringfertilizer, tile.redStringFertilizer.name
-botania:redstringcomparator, tile.redStringComparator.name
-botania:redstringrelay, tile.redStringRelay.name
-botania:floatingspecialflower:0, Floating Pure Daisy
-botania:floatingspecialflower:0, Floating Manastar
-botania:floatingspecialflower:0, Floating Endoflame
-botania:floatingspecialflower:0, Floating Hydroangeas
-botania:floatingspecialflower:0, Floating Thermalily
-botania:floatingspecialflower:0, Floating Rosa Arcana
-botania:floatingspecialflower:0, Floating Munchdew
-botania:floatingspecialflower:0, Floating Entropinnyum
-botania:floatingspecialflower:0, Floating Kekimurus
-botania:floatingspecialflower:0, Floating Gourmaryllis
-botania:floatingspecialflower:0, Floating Narslimmus
-botania:floatingspecialflower:0, Floating Spectrolus
-botania:floatingspecialflower:0, Floating Rafflowsia
-botania:floatingspecialflower:0, Floating Shulk Me Not
-botania:floatingspecialflower:0, Floating Dandelifeon
-botania:floatingspecialflower:0, Floating Jaded Amaranthus
-botania:floatingspecialflower:0, Floating Bellethorne
-botania:floatingspecialflower:0, Floating Bellethorne Petite
-botania:floatingspecialflower:0, Floating Dreadthorne
-botania:floatingspecialflower:0, Floating Heisei Dream
-botania:floatingspecialflower:0, Floating Tigerseye
-botania:floatingspecialflower:0, Floating Marimorphosis
-botania:floatingspecialflower:0, Floating Marimorphosis Petite
-botania:floatingspecialflower:0, Floating Orechid
-botania:floatingspecialflower:0, Floating Orechid Ignem
-botania:floatingspecialflower:0, Floating Fallen Kanade
-botania:floatingspecialflower:0, Floating Exoflame
-botania:floatingspecialflower:0, Floating Agricarnation
-botania:floatingspecialflower:0, Floating Agricarnation Petite
-botania:floatingspecialflower:0, Floating Hopperhock
-botania:floatingspecialflower:0, Floating Hopperhock Petite
-botania:floatingspecialflower:0, Floating Rannuncarpus
-botania:floatingspecialflower:0, Floating Rannuncarpus Petite
-botania:floatingspecialflower:0, Floating Tangleberrie
-botania:floatingspecialflower:0, Floating Jiyuulia
-botania:floatingspecialflower:0, Floating Hyacidus
-botania:floatingspecialflower:0, Floating Medumone
-botania:floatingspecialflower:0, Floating Pollidisiac
-botania:floatingspecialflower:0, Floating Clayconia
-botania:floatingspecialflower:0, Floating Clayconia Petite
-botania:floatingspecialflower:0, Floating Loonium
-botania:floatingspecialflower:0, Floating Daffomill
-botania:floatingspecialflower:0, Floating Vinculotus
-botania:floatingspecialflower:0, Floating Spectranthemum
-botania:floatingspecialflower:0, Floating Bubbell
-botania:floatingspecialflower:0, Floating Bubbell Petite
-botania:floatingspecialflower:0, Floating Solegnolia
-botania:floatingspecialflower:0, Floating Solegnolia Petite
-botania:floatingspecialflower:0, Floating Bergamute
-botania:prism, tile.prism.name
-botania:enchantedsoil, tile.enchantedSoil.name
-botania:petalblock:0, White Petal Block
-botania:petalblock:1, Orange Petal Block
-botania:petalblock:2, Magenta Petal Block
-botania:petalblock:3, Light Blue Petal Block
-botania:petalblock:4, Yellow Petal Block
-botania:petalblock:5, Lime Petal Block
-botania:petalblock:6, Pink Petal Block
-botania:petalblock:7, Gray Petal Block
-botania:petalblock:8, Light Gray Petal Block
-botania:petalblock:9, Cyan Petal Block
-botania:petalblock:10, Purple Petal Block
-botania:petalblock:11, Blue Petal Block
-botania:petalblock:12, Brown Petal Block
-botania:petalblock:13, Green Petal Block
-botania:petalblock:14, Red Petal Block
-botania:petalblock:15, Black Petal Block
-botania:corporeaindex, tile.corporeaIndex.name
-botania:corporeafunnel, tile.corporeaFunnel.name
-botania:mushroom:0, White Shimmering Mushroom
-botania:mushroom:1, Orange Shimmering Mushroom
-botania:mushroom:2, Magenta Shimmering Mushroom
-botania:mushroom:3, Light Blue Shimmering Mushroom
-botania:mushroom:4, Yellow Shimmering Mushroom
-botania:mushroom:5, Lime Shimmering Mushroom
-botania:mushroom:6, Pink Shimmering Mushroom
-botania:mushroom:7, Gray Shimmering Mushroom
-botania:mushroom:8, Light Gray Shimmering Mushroom
-botania:mushroom:9, Cyan Shimmering Mushroom
-botania:mushroom:10, Purple Shimmering Mushroom
-botania:mushroom:11, Blue Shimmering Mushroom
-botania:mushroom:12, Brown Shimmering Mushroom
-botania:mushroom:13, Green Shimmering Mushroom
-botania:mushroom:14, Red Shimmering Mushroom
-botania:mushroom:15, Black Shimmering Mushroom
-botania:pump, tile.pump.name
-botania:doubleflower1:0, Tall Mystical White Flower
-botania:doubleflower1:1, Tall Mystical Orange Flower
-botania:doubleflower1:2, Tall Mystical Magenta Flower
-botania:doubleflower1:3, Tall Mystical Light Blue Flower
-botania:doubleflower1:4, Tall Mystical Yellow Flower
-botania:doubleflower1:5, Tall Mystical Lime Flower
-botania:doubleflower1:6, Tall Mystical Pink Flower
-botania:doubleflower1:7, Tall Mystical Gray Flower
-botania:doubleflower2:0, Tall Mystical Light Gray Flower
-botania:doubleflower2:1, Tall Mystical Cyan Flower
-botania:doubleflower2:2, Tall Mystical Purple Flower
-botania:doubleflower2:3, Tall Mystical Blue Flower
-botania:doubleflower2:4, Tall Mystical Brown Flower
-botania:doubleflower2:5, Tall Mystical Green Flower
-botania:doubleflower2:6, Tall Mystical Red Flower
-botania:doubleflower2:7, Tall Mystical Black Flower
-botania:blazeblock, tile.blazeBlock.name
-botania:corporeainterceptor, tile.corporeaInterceptor.name
-botania:corporeacrystalcube, tile.corporeaCrystalCube.name
-botania:incenseplate, tile.incensePlate.name
-botania:hourglass, tile.hourglass.name
-botania:ghostrail, tile.ghostRail.name
-botania:sparkchanger, tile.sparkChanger.name
-botania:root, tile.root.name
-botania:felpumpkin, tile.felPumpkin.name
-botania:cocoon, tile.cocoon.name
-botania:lightrelay:0, Luminizer
-botania:lightrelay:1, Detector Luminizer
-botania:lightrelay:2, Fork Luminizer
-botania:lightrelay:3, Toggle Luminizer
-botania:lightlauncher, tile.lightLauncher.name
-botania:manabomb, tile.manaBomb.name
-botania:cacophoniumblock, tile.cacophoniumBlock.name
-botania:bellows, Arcane Bellows
-botania:bifrostperm, tile.bifrostPerm.name
-botania:cellblock, tile.cellBlock.name
-botania:redstringinterceptor, tile.redStringInterceptor.name
-botania:corporearetainer, tile.corporeaRetainer.name
-botania:teruterubozu, tile.teruTeruBozu.name
-botania:shimmerrock, tile.shimmerrock.name
-botania:shimmerwoodplanks, tile.shimmerwoodPlanks.name
-botania:avatar, tile.avatar.name
-botania:altgrass:0, Dry Grass
-botania:altgrass:1, Golden Grass
-botania:altgrass:2, Vivid Grass
-botania:altgrass:3, Scorched Grass
-botania:altgrass:4, Infused Grass
-botania:altgrass:5, Mutated Grass
-botania:animatedtorch, tile.animatedTorch.name
-botania:livingwood0stairs, tile.livingwood0Stairs.name
-botania:livingwood0slab:0, Livingwood Slab
-botania:livingwood0wall, tile.livingwood0Wall.name
-botania:livingwood1stairs, tile.livingwood1Stairs.name
-botania:livingwood1slab:0, Livingwood Plank Slab
-botania:livingrock0stairs, tile.livingrock0Stairs.name
-botania:livingrock0slab:0, Livingrock Slab
-botania:livingrock0wall, tile.livingrock0Wall.name
-botania:livingrock1stairs, tile.livingrock1Stairs.name
-botania:livingrock1slab:0, Livingrock Brick Slab
-botania:dreamwood0stairs, tile.dreamwood0Stairs.name
-botania:dreamwood0slab:0, Dreamwood Slab
-botania:dreamwood0wall, tile.dreamwood0Wall.name
-botania:dreamwood1stairs, tile.dreamwood1Stairs.name
-botania:dreamwood1slab:0, Dreamwood Plank Slab
-botania:quartztypedark:0, Block of Smokey Quartz
-botania:quartztypedark:1, Chiseled Smokey Quartz Block
-botania:quartztypedark:2, Pillar Smokey Quartz Block
-botania:quartzslabdarkhalf:0, Smokey Quartz Slab
-botania:quartzstairsdark, tile.quartzStairsDark.name
-botania:quartztypemana:0, Block of Mana Quartz
-botania:quartztypemana:1, Chiseled Mana Quartz Block
-botania:quartztypemana:2, Pillar Mana Quartz Block
-botania:quartzslabmanahalf:0, Mana Quartz Slab
-botania:quartzstairsmana, tile.quartzStairsMana.name
-botania:quartztypeblaze:0, Block of Blaze Quartz
-botania:quartztypeblaze:1, Chiseled Blaze Quartz Block
-botania:quartztypeblaze:2, Pillar Blaze Quartz Block
-botania:quartzslabblazehalf:0, Blaze Quartz Slab
-botania:quartzstairsblaze, tile.quartzStairsBlaze.name
-botania:quartztypelavender:0, Block of Lavender Quartz
-botania:quartztypelavender:1, Chiseled Lavender Quartz Block
-botania:quartztypelavender:2, Pillar Lavender Quartz Block
-botania:quartzslablavenderhalf:0, Lavender Quartz Slab
-botania:quartzstairslavender, tile.quartzStairsLavender.name
-botania:quartztypered:0, Block of Redquartz
-botania:quartztypered:1, Chiseled Redquartz Block
-botania:quartztypered:2, Pillar Redquartz Block
-botania:quartzslabredhalf:0, Redquartz Slab
-botania:quartzstairsred, tile.quartzStairsRed.name
-botania:quartztypeelf:0, Block of Elven Quartz
-botania:quartztypeelf:1, Chiseled Elven Quartz Block
-botania:quartztypeelf:2, Pillar Elven Quartz Block
-botania:quartzslabelfhalf:0, Elven Quartz Slab
-botania:quartzstairself, tile.quartzStairsElf.name
-botania:quartztypesunny:0, Block of Sunny Quartz
-botania:quartztypesunny:1, Chiseled Sunny Quartz Block
-botania:quartztypesunny:2, Pillar Sunny Quartz Block
-botania:quartzslabsunnyhalf:0, Sunny Quartz Slab
-botania:quartzstairssunny, tile.quartzStairsSunny.name
-botania:biomestonea:0, Metamorphic Forest Stone
-botania:biomestonea:1, Metamorphic Plains Stone
-botania:biomestonea:2, Metamorphic Mountain Stone
-botania:biomestonea:3, Metamorphic Fungal Stone
-botania:biomestonea:4, Metamorphic Swamp Stone
-botania:biomestonea:5, Metamorphic Desert Stone
-botania:biomestonea:6, Metamorphic Taiga Stone
-botania:biomestonea:7, Metamorphic Mesa Stone
-botania:biomestonea:8, Metamorphic Forest Cobblestone
-botania:biomestonea:9, Metamorphic Plains Cobblestone
-botania:biomestonea:10, Metamorphic Mountain Cobblestone
-botania:biomestonea:11, Metamorphic Fungal Cobblestone
-botania:biomestonea:12, Metamorphic Swamp Cobblestone
-botania:biomestonea:13, Metamorphic Desert Cobblestone
-botania:biomestonea:14, Metamorphic Taiga Cobblestone
-botania:biomestonea:15, Metamorphic Mesa Cobblestone
-botania:biomestoneb:0, Metamorphic Forest Stone Bricks
-botania:biomestoneb:1, Metamorphic Plains Stone Bricks
-botania:biomestoneb:2, Metamorphic Mountain Stone Bricks
-botania:biomestoneb:3, Metamorphic Fungal Stone Bricks
-botania:biomestoneb:4, Metamorphic Swamp Stone Bricks
-botania:biomestoneb:5, Metamorphic Desert Stone Bricks
-botania:biomestoneb:6, Metamorphic Taiga Stone Bricks
-botania:biomestoneb:7, Metamorphic Mesa Stone Bricks
-botania:biomestoneb:8, Chiseled Metamorphic Forest Stone Brick
-botania:biomestoneb:9, Chiseled Metamorphic Plains Stone Brick
-botania:biomestoneb:10, Chiseled Metamorphic Mountain Stone Brick
-botania:biomestoneb:11, Chiseled Metamorphic Fungal Stone Brick
-botania:biomestoneb:12, Chiseled Metamorphic Swamp Stone Brick
-botania:biomestoneb:13, Chiseled Metamorphic Desert Stone Brick
-botania:biomestoneb:14, Chiseled Metamorphic Taiga Stone Brick
-botania:biomestoneb:15, Chiseled Metamorphic Mesa Stone Brick
-botania:pavement:0, White Portuguese Pavement
-botania:pavement:1, Black Portuguese Pavement
-botania:pavement:2, Blue Portuguese Pavement
-botania:pavement:3, Red Portuguese Pavement
-botania:pavement:4, Yellow Portuguese Pavement
-botania:pavement:5, Green Portuguese Pavement
-botania:biomestonea0stairs, tile.biomeStoneA0Stairs.name
-botania:biomestonea0slab:0, Metamorphic Forest Stone Slab
-botania:biomestonea1stairs, tile.biomeStoneA1Stairs.name
-botania:biomestonea1slab:0, Metamorphic Plains Stone Slab
-botania:biomestonea2stairs, tile.biomeStoneA2Stairs.name
-botania:biomestonea2slab:0, Metamorphic Mountain Stone Slab
-botania:biomestonea3stairs, tile.biomeStoneA3Stairs.name
-botania:biomestonea3slab:0, Metamorphic Fungal Stone Slab
-botania:biomestonea4stairs, tile.biomeStoneA4Stairs.name
-botania:biomestonea4slab:0, Metamorphic Swamp Stone Slab
-botania:biomestonea5stairs, tile.biomeStoneA5Stairs.name
-botania:biomestonea5slab:0, Metamorphic Desert Stone Slab
-botania:biomestonea6stairs, tile.biomeStoneA6Stairs.name
-botania:biomestonea6slab:0, Metamorphic Taiga Stone Slab
-botania:biomestonea7stairs, tile.biomeStoneA7Stairs.name
-botania:biomestonea7slab:0, Metamorphic Mesa Stone Slab
-botania:biomestonea8stairs, tile.biomeStoneA8Stairs.name
-botania:biomestonea8slab:0, Metamorphic Forest Cobblestone Slab
-botania:biomestonea9stairs, tile.biomeStoneA9Stairs.name
-botania:biomestonea9slab:0, Metamorphic Plains Cobblestone Slab
-botania:biomestonea10stairs, tile.biomeStoneA10Stairs.name
-botania:biomestonea10slab:0, Metamorphic Mountain Cobblestone Slab
-botania:biomestonea11stairs, tile.biomeStoneA11Stairs.name
-botania:biomestonea11slab:0, Metamorphic Fungal Cobblestone Slab
-botania:biomestonea12stairs, tile.biomeStoneA12Stairs.name
-botania:biomestonea12slab:0, Metamorphic Swamp Cobblestone Slab
-botania:biomestonea13stairs, tile.biomeStoneA13Stairs.name
-botania:biomestonea13slab:0, Metamorphic Desert Cobblestone Slab
-botania:biomestonea14stairs, tile.biomeStoneA14Stairs.name
-botania:biomestonea14slab:0, Metamorphic Taiga Cobblestone Slab
-botania:biomestonea15stairs, tile.biomeStoneA15Stairs.name
-botania:biomestonea15slab:0, Metamorphic Mesa Cobblestone Slab
-botania:biomestoneb0stairs, tile.biomeStoneB0Stairs.name
-botania:biomestoneb0slab:0, Metamorphic Forest Stone Brick Slab
-botania:biomestoneb1stairs, tile.biomeStoneB1Stairs.name
-botania:biomestoneb1slab:0, Metamorphic Plains Stone Brick Slab
-botania:biomestoneb2stairs, tile.biomeStoneB2Stairs.name
-botania:biomestoneb2slab:0, Metamorphic Mountain Stone Brick Slab
-botania:biomestoneb3stairs, tile.biomeStoneB3Stairs.name
-botania:biomestoneb3slab:0, Metamorphic Fungal Stone Brick Slab
-botania:biomestoneb4stairs, tile.biomeStoneB4Stairs.name
-botania:biomestoneb4slab:0, Metamorphic Swamp Stone Brick Slab
-botania:biomestoneb5stairs, tile.biomeStoneB5Stairs.name
-botania:biomestoneb5slab:0, Metamorphic Desert Stone Brick Slab
-botania:biomestoneb6stairs, tile.biomeStoneB6Stairs.name
-botania:biomestoneb6slab:0, Metamorphic Taiga Stone Brick Slab
-botania:biomestoneb7stairs, tile.biomeStoneB7Stairs.name
-botania:biomestoneb7slab:0, Metamorphic Mesa Stone Bricks Slab
-botania:biomestonea0wall:0, Metamorphic Forest Cobblestone Wall
-botania:biomestonea0wall:1, Metamorphic Plains Cobblestone Wall
-botania:biomestonea0wall:2, Metamorphic Mountain Cobblestone Wall
-botania:biomestonea0wall:3, Metamorphic Fungal Cobblestone Wall
-botania:biomestonea0wall:4, Metamorphic Swamp Cobblestone Wall
-botania:biomestonea0wall:5, Metamorphic Desert Cobblestone Wall
-botania:biomestonea0wall:6, Metamorphic Taiga Cobblestone Wall
-botania:biomestonea0wall:7, Metamorphic Mesa Cobblestone Wall
-botania:pavement0stairs, tile.pavement0Stairs.name
-botania:pavement0slab:0, White Portuguese Pavement Slab
-botania:pavement1stairs, tile.pavement1Stairs.name
-botania:pavement1slab:0, Black Portuguese Pavement Slab
-botania:pavement2stairs, tile.pavement2Stairs.name
-botania:pavement2slab:0, Blue Portuguese Pavement Slab
-botania:pavement3stairs, tile.pavement3Stairs.name
-botania:pavement3slab:0, Red Portuguese Pavement Slab
-botania:pavement4stairs, tile.pavement4Stairs.name
-botania:pavement4slab:0, Yellow Portuguese Pavement Slab
-botania:pavement5stairs, tile.pavement5Stairs.name
-botania:pavement5slab:0, Green Portuguese Pavement Slab
-botania:shimmerrock0slab:0, Shimmerrock Slab
-botania:shimmerrock0stairs, tile.shimmerrock0Stairs.name
-botania:shimmerwoodplanks0slab:0, Shimmerwood Plank Slab
-botania:shimmerwoodplanks0stairs, tile.shimmerwoodPlanks0Stairs.name
-botania:managlasspane, tile.manaGlassPane.name
-botania:elfglasspane, tile.elfGlassPane.name
-botania:bifrostpermpane, tile.bifrostPermPane.name
 cfm:coffee_table_oak, Oak Coffee Table
 cfm:coffee_table_spruce, Spruce Coffee Table
 cfm:coffee_table_birch, Birch Coffee Table
@@ -7978,24 +8059,6 @@ cfm:ceiling_fan_fans, item.ceiling_fan_fans.name
 cfm:tv_remote, TV Remote
 gravestone:gravestone, Grave
 gravestone:death_info, Obituary
-ironchest:iron_gold_chest_upgrade, Iron to Gold Chest Upgrade
-ironchest:gold_diamond_chest_upgrade, Gold to Diamond Chest Upgrade
-ironchest:copper_silver_chest_upgrade, Copper to Silver Chest Upgrade
-ironchest:silver_gold_chest_upgrade, Silver to Gold Chest Upgrade
-ironchest:copper_iron_chest_upgrade, Copper to Iron Chest Upgrade
-ironchest:diamond_crystal_chest_upgrade, Diamond to Crystal Chest Upgrade
-ironchest:wood_iron_chest_upgrade, Wood to Iron Chest Upgrade
-ironchest:wood_copper_chest_upgrade, Wood to Copper Chest Upgrade
-ironchest:diamond_obsidian_chest_upgrade, Diamond to Obsidian Chest Upgrade
-ironchest:iron_gold_shulker_upgrade, Iron to Gold Shulker Box Upgrade
-ironchest:gold_diamond_shulker_upgrade, Gold to Diamond Shulker Box Upgrade
-ironchest:copper_silver_shulker_upgrade, Copper to Silver Shulker Box Upgrade
-ironchest:silver_gold_shulker_upgrade, Silver to Gold Shulker Box Upgrade
-ironchest:copper_iron_shulker_upgrade, Copper to Iron Shulker Box Upgrade
-ironchest:diamond_crystal_shulker_upgrade, Diamond to Crystal Shulker Box Upgrade
-ironchest:vanilla_iron_shulker_upgrade, Vanilla to Iron Shulker Box Upgrade
-ironchest:vanilla_copper_shulker_upgrade, Vanilla to Copper Shulker Box Upgrade
-ironchest:diamond_obsidian_shulker_upgrade, Diamond to Obsidian Shulker Box Upgrade
 ironchest:iron_chest:0, Iron Chest
 ironchest:iron_chest:1, Gold Chest
 ironchest:iron_chest:2, Diamond Chest
@@ -8116,6 +8179,24 @@ ironchest:iron_shulker_box_black:3, Black Copper Shulker Box
 ironchest:iron_shulker_box_black:4, Black Silver Shulker Box
 ironchest:iron_shulker_box_black:5, Black Crystal Shulker Box
 ironchest:iron_shulker_box_black:6, Black Obsidian Shulker Box
+ironchest:iron_gold_chest_upgrade, Iron to Gold Chest Upgrade
+ironchest:gold_diamond_chest_upgrade, Gold to Diamond Chest Upgrade
+ironchest:copper_silver_chest_upgrade, Copper to Silver Chest Upgrade
+ironchest:silver_gold_chest_upgrade, Silver to Gold Chest Upgrade
+ironchest:copper_iron_chest_upgrade, Copper to Iron Chest Upgrade
+ironchest:diamond_crystal_chest_upgrade, Diamond to Crystal Chest Upgrade
+ironchest:wood_iron_chest_upgrade, Wood to Iron Chest Upgrade
+ironchest:wood_copper_chest_upgrade, Wood to Copper Chest Upgrade
+ironchest:diamond_obsidian_chest_upgrade, Diamond to Obsidian Chest Upgrade
+ironchest:iron_gold_shulker_upgrade, Iron to Gold Shulker Box Upgrade
+ironchest:gold_diamond_shulker_upgrade, Gold to Diamond Shulker Box Upgrade
+ironchest:copper_silver_shulker_upgrade, Copper to Silver Shulker Box Upgrade
+ironchest:silver_gold_shulker_upgrade, Silver to Gold Shulker Box Upgrade
+ironchest:copper_iron_shulker_upgrade, Copper to Iron Shulker Box Upgrade
+ironchest:diamond_crystal_shulker_upgrade, Diamond to Crystal Shulker Box Upgrade
+ironchest:vanilla_iron_shulker_upgrade, Vanilla to Iron Shulker Box Upgrade
+ironchest:vanilla_copper_shulker_upgrade, Vanilla to Copper Shulker Box Upgrade
+ironchest:diamond_obsidian_shulker_upgrade, Diamond to Obsidian Shulker Box Upgrade
 ironfurnaces:iron_furnace_idle, Iron Furnace
 ironfurnaces:iron_furnace_active, Iron Furnace
 ironfurnaces:gold_furnace_idle, Gold Furnace
@@ -9273,34 +9354,34 @@ tconstruct:slime_vine_purple_end:0, Purple Slimy Vine
 tconstruct:slime_vine_purple_mid:0, Purple Slimy Vine
 tconstruct:slime_vine_purple:0, Purple Slimy Vine
 tconstruct:pattern:0, Blank Pattern
-tconstruct:pattern:0, Shard Pattern
-tconstruct:pattern:0, Arrow Shaft Pattern
-tconstruct:pattern:0, Arrow Head Pattern
-tconstruct:pattern:0, Large Plate Pattern
-tconstruct:pattern:0, Kama Head Pattern
-tconstruct:pattern:0, Shovel Head Pattern
-tconstruct:pattern:0, Scythe Head Pattern
-tconstruct:pattern:0, Large Sword Blade Pattern
-tconstruct:pattern:0, Tool Rod Pattern
-tconstruct:pattern:0, Sword Blade Pattern
-tconstruct:pattern:0, Hammer Head Pattern
-tconstruct:pattern:0, Sharpening Kit Pattern
-tconstruct:pattern:0, Tough Tool Rod Pattern
-tconstruct:pattern:0, Axe Head Pattern
-tconstruct:pattern:0, Binding Pattern
-tconstruct:pattern:0, Broad Axe Head Pattern
-tconstruct:pattern:0, Cross Guard Pattern
-tconstruct:pattern:0, Fletching Pattern
 tconstruct:pattern:0, Pickaxe Head Pattern
-tconstruct:pattern:0, Bowstring Pattern
-tconstruct:pattern:0, Hand Guard Pattern
-tconstruct:pattern:0, Sign Plate Pattern
-tconstruct:pattern:0, Wide Guard Pattern
-tconstruct:pattern:0, Pan Pattern
-tconstruct:pattern:0, Tough Binding Pattern
+tconstruct:pattern:0, Large Sword Blade Pattern
+tconstruct:pattern:0, Arrow Shaft Pattern
 tconstruct:pattern:0, Excavator Head Pattern
+tconstruct:pattern:0, Bowstring Pattern
+tconstruct:pattern:0, Sharpening Kit Pattern
 tconstruct:pattern:0, Bowlimb Pattern
 tconstruct:pattern:0, Knife Blade Pattern
+tconstruct:pattern:0, Hammer Head Pattern
+tconstruct:pattern:0, Arrow Head Pattern
+tconstruct:pattern:0, Kama Head Pattern
+tconstruct:pattern:0, Sword Blade Pattern
+tconstruct:pattern:0, Tough Tool Rod Pattern
+tconstruct:pattern:0, Hand Guard Pattern
+tconstruct:pattern:0, Tool Rod Pattern
+tconstruct:pattern:0, Wide Guard Pattern
+tconstruct:pattern:0, Fletching Pattern
+tconstruct:pattern:0, Axe Head Pattern
+tconstruct:pattern:0, Broad Axe Head Pattern
+tconstruct:pattern:0, Tough Binding Pattern
+tconstruct:pattern:0, Pan Pattern
+tconstruct:pattern:0, Cross Guard Pattern
+tconstruct:pattern:0, Shard Pattern
+tconstruct:pattern:0, Sign Plate Pattern
+tconstruct:pattern:0, Shovel Head Pattern
+tconstruct:pattern:0, Scythe Head Pattern
+tconstruct:pattern:0, Large Plate Pattern
+tconstruct:pattern:0, Binding Pattern
 tconstruct:shard:0, Naga Scale Shard
 tconstruct:shard:0, Steeleaf Shard
 tconstruct:shard:0, Fiery Shard
@@ -10288,64 +10369,64 @@ tconstruct:seared_stairs_road:0, Seared Road Stairs
 tconstruct:seared_stairs_tile:0, Seared Tile Stairs
 tconstruct:seared_stairs_creeper:0, Seared Creeperface Stairs
 tconstruct:cast:0, Blank Cast
-tconstruct:cast:0, Shard Cast
-tconstruct:cast:0, Arrow Shaft Cast
-tconstruct:cast:0, Arrow Head Cast
-tconstruct:cast:0, Large Plate Cast
-tconstruct:cast:0, Kama Head Cast
-tconstruct:cast:0, Shovel Head Cast
-tconstruct:cast:0, Scythe Head Cast
-tconstruct:cast:0, Large Sword Blade Cast
-tconstruct:cast:0, Tool Rod Cast
-tconstruct:cast:0, Sword Blade Cast
-tconstruct:cast:0, Hammer Head Cast
-tconstruct:cast:0, Sharpening Kit Cast
-tconstruct:cast:0, Tough Tool Rod Cast
-tconstruct:cast:0, Axe Head Cast
-tconstruct:cast:0, Binding Cast
-tconstruct:cast:0, Broad Axe Head Cast
-tconstruct:cast:0, Cross Guard Cast
 tconstruct:cast:0, Pickaxe Head Cast
-tconstruct:cast:0, Hand Guard Cast
-tconstruct:cast:0, Sign Plate Cast
-tconstruct:cast:0, Wide Guard Cast
-tconstruct:cast:0, Pan Cast
-tconstruct:cast:0, Tough Binding Cast
+tconstruct:cast:0, Large Sword Blade Cast
+tconstruct:cast:0, Arrow Shaft Cast
 tconstruct:cast:0, Excavator Head Cast
+tconstruct:cast:0, Sharpening Kit Cast
 tconstruct:cast:0, Bowlimb Cast
 tconstruct:cast:0, Knife Blade Cast
+tconstruct:cast:0, Hammer Head Cast
+tconstruct:cast:0, Arrow Head Cast
+tconstruct:cast:0, Kama Head Cast
+tconstruct:cast:0, Sword Blade Cast
+tconstruct:cast:0, Tough Tool Rod Cast
+tconstruct:cast:0, Hand Guard Cast
+tconstruct:cast:0, Tool Rod Cast
+tconstruct:cast:0, Wide Guard Cast
+tconstruct:cast:0, Axe Head Cast
+tconstruct:cast:0, Broad Axe Head Cast
+tconstruct:cast:0, Tough Binding Cast
+tconstruct:cast:0, Pan Cast
+tconstruct:cast:0, Cross Guard Cast
+tconstruct:cast:0, Shard Cast
+tconstruct:cast:0, Sign Plate Cast
+tconstruct:cast:0, Shovel Head Cast
+tconstruct:cast:0, Scythe Head Cast
+tconstruct:cast:0, Large Plate Cast
+tconstruct:cast:0, Binding Cast
 tconstruct:cast_custom:0, Ingot Cast
 tconstruct:cast_custom:1, Nugget Cast
 tconstruct:cast_custom:2, Gem Cast
 tconstruct:cast_custom:3, Plate Cast
 tconstruct:cast_custom:4, Gear Cast
 tconstruct:clay_cast:0, item.tconstruct.clay_cast.blank
-tconstruct:clay_cast:0, Shard Clay Cast
-tconstruct:clay_cast:0, Arrow Shaft Clay Cast
-tconstruct:clay_cast:0, Arrow Head Clay Cast
-tconstruct:clay_cast:0, Large Plate Clay Cast
-tconstruct:clay_cast:0, Kama Head Clay Cast
-tconstruct:clay_cast:0, Shovel Head Clay Cast
-tconstruct:clay_cast:0, Scythe Head Clay Cast
-tconstruct:clay_cast:0, Large Sword Blade Clay Cast
-tconstruct:clay_cast:0, Tool Rod Clay Cast
-tconstruct:clay_cast:0, Sword Blade Clay Cast
-tconstruct:clay_cast:0, Hammer Head Clay Cast
-tconstruct:clay_cast:0, Sharpening Kit Clay Cast
-tconstruct:clay_cast:0, Tough Tool Rod Clay Cast
-tconstruct:clay_cast:0, Axe Head Clay Cast
-tconstruct:clay_cast:0, Binding Clay Cast
-tconstruct:clay_cast:0, Broad Axe Head Clay Cast
-tconstruct:clay_cast:0, Cross Guard Clay Cast
 tconstruct:clay_cast:0, Pickaxe Head Clay Cast
-tconstruct:clay_cast:0, Hand Guard Clay Cast
-tconstruct:clay_cast:0, Sign Plate Clay Cast
-tconstruct:clay_cast:0, Wide Guard Clay Cast
-tconstruct:clay_cast:0, Pan Clay Cast
-tconstruct:clay_cast:0, Tough Binding Clay Cast
+tconstruct:clay_cast:0, Large Sword Blade Clay Cast
+tconstruct:clay_cast:0, Arrow Shaft Clay Cast
 tconstruct:clay_cast:0, Excavator Head Clay Cast
+tconstruct:clay_cast:0, Sharpening Kit Clay Cast
 tconstruct:clay_cast:0, Bowlimb Clay Cast
 tconstruct:clay_cast:0, Knife Blade Clay Cast
+tconstruct:clay_cast:0, Hammer Head Clay Cast
+tconstruct:clay_cast:0, Arrow Head Clay Cast
+tconstruct:clay_cast:0, Kama Head Clay Cast
+tconstruct:clay_cast:0, Sword Blade Clay Cast
+tconstruct:clay_cast:0, Tough Tool Rod Clay Cast
+tconstruct:clay_cast:0, Hand Guard Clay Cast
+tconstruct:clay_cast:0, Tool Rod Clay Cast
+tconstruct:clay_cast:0, Wide Guard Clay Cast
+tconstruct:clay_cast:0, Axe Head Clay Cast
+tconstruct:clay_cast:0, Broad Axe Head Clay Cast
+tconstruct:clay_cast:0, Tough Binding Clay Cast
+tconstruct:clay_cast:0, Pan Clay Cast
+tconstruct:clay_cast:0, Cross Guard Clay Cast
+tconstruct:clay_cast:0, Shard Clay Cast
+tconstruct:clay_cast:0, Sign Plate Clay Cast
+tconstruct:clay_cast:0, Shovel Head Clay Cast
+tconstruct:clay_cast:0, Scythe Head Clay Cast
+tconstruct:clay_cast:0, Large Plate Clay Cast
+tconstruct:clay_cast:0, Binding Clay Cast
 tconstruct:stone_torch:0, Stone Torch
 tconstruct:stone_ladder:0, Stone Ladder
 tconstruct:punji:0, Punji Sticks
@@ -10423,6 +10504,7 @@ tconstruct:fancy_frame:4, Manyullyn Item Frame
 tconstruct:fancy_frame:5, Golden Item Frame
 tconstruct:fancy_frame:6, Clear Item Frame
 tconstruct:moms_spaghetti, Mom's Spaghetti
+thaumicenergistics:infusion_provider, Essentia Infusion Provider
 thaumicenergistics:essentia_cell_1k, 1k ME Essentia Storage Cell
 thaumicenergistics:essentia_cell_4k, 4k ME Essentia Storage Cell
 thaumicenergistics:essentia_cell_16k, 16k ME Essentia Storage Cell
@@ -10441,7 +10523,6 @@ thaumicenergistics:essentia_component_16k, 16k ME Essentia Storage Component
 thaumicenergistics:essentia_component_64k, 64k ME Essentia Storage Component
 thaumicenergistics:upgrade_arcane, Arcane Charging Upgrade
 thaumicenergistics:dummy_aspect, item.thaumicenergistics.dummy_aspect.name
-thaumicenergistics:infusion_provider, Essentia Infusion Provider
 thaumictinkerer:funnel, Essentia Funnel
 thaumictinkerer:dissimulation, Dissimulation Block
 thaumictinkerer:transvector_interface, Transvector Interface
@@ -11566,4 +11647,491 @@ byg:purple_enchanted_sapling, Silver Maple Sapling
 byg:structure_spawn_block, Structure Spawn Block
 byg:black_puff, Black Puff
 byg:glowcanepink, Pink Glowcane
+lycanitesmobs:shadowstonebrick_stairs, Shadowstone Brick Stairs
+lycanitesmobs:ashenstone_slab:0, Ashenstone Slab
+lycanitesmobs:whirlwindcharge, Whirlwind Charge
+lycanitesmobs:searing_taco, Searing Taco
+lycanitesmobs:cooked_ika_meat, Cooked Ika Meat
+lycanitesmobs:cooked_chupacabra_meat, Cooked Chupacabra Meat
+lycanitesmobs:undeadspawn:0, Spawn Undead: Wendigo
+lycanitesmobs:undeadspawn:0, Spawn Undead: Amalgalich
+lycanitesmobs:undeadspawn:0, Spawn Undead: Geist
+lycanitesmobs:undeadspawn:0, Spawn Undead: Necrovore
+lycanitesmobs:undeadspawn:0, Spawn Undead: Ghoul
+lycanitesmobs:undeadspawn:0, Spawn Undead: Cryptkeeper
+lycanitesmobs:undeadspawn:0, Spawn Undead: Reaper
+lycanitesmobs:shadowstonetile_stairs, Shadowstone Tile Stairs
+lycanitesmobs:shadowstonebrick_fence, Shadowstone Brick Fence
+lycanitesmobs:bruchaquill, Brucha Quill
+lycanitesmobs:geonachspear, Geonach Spear
+lycanitesmobs:soul_contract,  Soul Contract
+lycanitesmobs:frostweb, Frostweb
+lycanitesmobs:seashell_maki, Seashell Maki
+lycanitesmobs:impspawn:0, Spawn Imp: Gnekk
+lycanitesmobs:impspawn:0, Spawn Imp: Pixen
+lycanitesmobs:impspawn:0, Spawn Imp: Clink
+lycanitesmobs:impspawn:0, Spawn Imp: Arix
+lycanitesmobs:impspawn:0, Spawn Imp: Afrit
+lycanitesmobs:bloodsummoningstaff, Blood Summoning Staff
+lycanitesmobs:demoncrystal, Demon Crystal
+lycanitesmobs:beastspawn:0, Spawn Beast: Jabberwock
+lycanitesmobs:beastspawn:0, Spawn Beast: Wraamon
+lycanitesmobs:beastspawn:0, Spawn Beast: Barghest
+lycanitesmobs:beastspawn:0, Spawn Beast: Conba
+lycanitesmobs:beastspawn:0, Spawn Beast: Warg
+lycanitesmobs:beastspawn:0, Spawn Beast: Kobold
+lycanitesmobs:beastspawn:0, Spawn Beast: Maka Alpha
+lycanitesmobs:beastspawn:0, Spawn Beast: Chupacabra
+lycanitesmobs:beastspawn:0, Spawn Beast: Bobeko
+lycanitesmobs:beastspawn:0, Spawn Beast: Maug
+lycanitesmobs:beastspawn:0, Spawn Beast: Dawon
+lycanitesmobs:beastspawn:0, Spawn Beast: Brucha
+lycanitesmobs:beastspawn:0, Spawn Beast: Maka
+lycanitesmobs:beastspawn:0, Spawn Beast: Feradon
+lycanitesmobs:beastspawn:0, Spawn Beast: Epion
+lycanitesmobs:beastspawn:0, Spawn Beast: Balayang
+lycanitesmobs:soulstone_undead, Undead Soulstone
+lycanitesmobs:soulstone_imp, Imp Soulstone
+lycanitesmobs:shadowcrystal, Shadow Crystal
+lycanitesmobs:raw_joust_meat, Raw Jouste Meat
+lycanitesmobs:ashenstonetile, Ashenstone Tile
+lycanitesmobs:planttreat, Plant Treat
+lycanitesmobs:acidglobcharge, Acid Glob Charge
+lycanitesmobs:reptilespawn:0, Spawn Reptile: Arisaur
+lycanitesmobs:reptilespawn:0, Spawn Reptile: Thresher
+lycanitesmobs:reptilespawn:0, Spawn Reptile: Aspid
+lycanitesmobs:reptilespawn:0, Spawn Reptile: Khalk
+lycanitesmobs:reptilespawn:0, Spawn Reptile: Geken
+lycanitesmobs:desertstonechiseled, Chiseled Desertstone
+lycanitesmobs:streamstonepolished, Polished Streamstone
+lycanitesmobs:saddle_elemental, Elemental Saddle
+lycanitesmobs:shadowstone_slab_double, Double Shadowstone Slab
+lycanitesmobs:dragontreat, Dragon Treat
+lycanitesmobs:astarothclaw, Astaroth Claw
+lycanitesmobs:shadowstonechiseled, Chiseled Shadowstone
+lycanitesmobs:apollyonclaw, Apollyon Claw
+lycanitesmobs:saddle_plant, Plant Saddle
+lycanitesmobs:slimetreat, Slime Treat
+lycanitesmobs:ashenstone_slab_double, Double Ashenstone Slab
+lycanitesmobs:shadowfire, Shadowfire
+lycanitesmobs:saddle_dragon, Dragon Saddle
+lycanitesmobs:bucketpoison, Poison Bucket
+lycanitesmobs:lushstone_stairs, Lushstone Stairs
+lycanitesmobs:aberrantstonebrick_slab:0, Aberrantstone Brick Slab
+lycanitesmobs:icefireballcharge, item.icefireballcharge.name
+lycanitesmobs:ashenstonebrick_stairs, Ashenstone Brick Stairs
+lycanitesmobs:quillcharge, item.quillcharge.name
+lycanitesmobs:lushstonebrick_fence, Lushstone Brick Fence
+lycanitesmobs:ashenstonepillar, Ashenstone Pillar
+lycanitesmobs:saddle_slime, Slime Saddle
+lycanitesmobs:aberrantstonebrick, Aberrantstone Brick
+lycanitesmobs:acid, tile.acid.name
+lycanitesmobs:lushstonebrick_stairs, Lushstone Brick Stairs
+lycanitesmobs:frostcloud, Frostcloud
+lycanitesmobs:streamstonetile, Streamstone Tile
+lycanitesmobs:elementaltreat, Elemental Treat
+lycanitesmobs:ironaxehead, Iron Axe Head
+lycanitesmobs:soulstone_arachnid, Arachnid Soulstone
+lycanitesmobs:aberrantstonebrick_stairs, Aberrantstone Brick Stairs
+lycanitesmobs:rabbitooze, tile.rabbitooze.name
+lycanitesmobs:shadowstone, Shadowstone
+lycanitesmobs:undeadtreat, Undead Treat
+lycanitesmobs:faeboltcharge, Faebolt Charge
+lycanitesmobs:clinkscythe, Clink Scythe
+lycanitesmobs:sharacid, tile.sharacid.name
+lycanitesmobs:lushstonebrick_slab:0, Lushstone Brick Slab
+lycanitesmobs:saddle_anthronian, Anthronian Saddle
+lycanitesmobs:ashenstonetile_slab:0, Ashenstone Tile Slab
+lycanitesmobs:ironrod, Iron Rod
+lycanitesmobs:ashenstonebrick_fence, Ashenstone Brick Fence
+lycanitesmobs:embercharge, Ember Charge
+lycanitesmobs:demontreat, Demon Treat
+lycanitesmobs:pale_soup, Pale Soup
+lycanitesmobs:cooked_yale_meat, Cooked Yale Meat
+lycanitesmobs:streamstonebrick_wall, Streamstone Brick Wall
+lycanitesmobs:wargskull, Warg Skull
+lycanitesmobs:soulstone_aquatic, Aquatic Soulstone
+lycanitesmobs:arixbrain, Arix Brain
+lycanitesmobs:imptreat, Imp Treat
+lycanitesmobs:raw_aspid_meat, Raw Aspid Meat
+lycanitesmobs:cooked_aspid_meat, Cooked Aspid Meat
+lycanitesmobs:aquaticspawn:0, Spawn Aquatic: Skylus
+lycanitesmobs:aquaticspawn:0, Spawn Aquatic: Herma
+lycanitesmobs:aquaticspawn:0, Spawn Aquatic: Lacedon
+lycanitesmobs:aquaticspawn:0, Spawn Aquatic: Roa
+lycanitesmobs:aquaticspawn:0, Spawn Aquatic: Cephignis
+lycanitesmobs:aquaticspawn:0, Spawn Aquatic: Silex
+lycanitesmobs:aquaticspawn:0, Spawn Aquatic: Abaia
+lycanitesmobs:aquaticspawn:0, Spawn Aquatic: Abtu
+lycanitesmobs:aquaticspawn:0, Spawn Aquatic: Stryder
+lycanitesmobs:aquaticspawn:0, Spawn Aquatic: Ioray
+lycanitesmobs:lifedraincharge, Life Drain Charge
+lycanitesmobs:veshoney, tile.veshoney.name
+lycanitesmobs:streamcrystal, Stream Crystal
+lycanitesmobs:shadowstone_stairs, Shadowstone Stairs
+lycanitesmobs:lushstonetile_slab:0, Lushstone Tile Slab
+lycanitesmobs:arcanelaserstormcharge, Arcane Laser Storm Charge
+lycanitesmobs:dragonspawn:0, Spawn Dragon: Quetzodracl
+lycanitesmobs:dragonspawn:0, Spawn Dragon: Cockatrice
+lycanitesmobs:dragonspawn:0, Spawn Dragon: Morock
+lycanitesmobs:dragonspawn:0, Spawn Dragon: Ignibus
+lycanitesmobs:dragonspawn:0, Spawn Dragon: Zoataur
+lycanitesmobs:dragonspawn:0, Spawn Dragon: Remobra
+lycanitesmobs:serpixmandible, Serpix Mandible
+lycanitesmobs:raw_concapede_meat, Raw Concapede Meat
+lycanitesmobs:cooked_joust_meat, Cooked Jouste Meat
+lycanitesmobs:ironpikejoint, Iron Pike Joint
+lycanitesmobs:aetherwavecharge, Aetherwave Charge
+lycanitesmobs:soulkey, Soulkey
+lycanitesmobs:demonstone, Demonstone
+lycanitesmobs:soulstone_dragon, Dragon Soulstone
+lycanitesmobs:aberrantstonechiseled, Chiseled Aberrantstone
+lycanitesmobs:ashenstonepolished, Polished Ashenstone
+lycanitesmobs:demonstonebrick_slab:0, Demonstone Brick Slab
+lycanitesmobs:aberrantstonetile_slab:0, Aberrantstone Tile Slab
+lycanitesmobs:ashenstone, Ashenstone
+lycanitesmobs:darklingskull, Darkling Skull
+lycanitesmobs:streamstonepillar, Streamstone Pillar
+lycanitesmobs:cherufecore, Cherufe Core
+lycanitesmobs:lacedonhead, Lacedon Head
+lycanitesmobs:saddle_reptile, Reptile Saddle
+lycanitesmobs:cleansingcrystal, Cleansing Crystal
+lycanitesmobs:soulstone_aberration, Aberration Soulstone
+lycanitesmobs:malwratheye, Malwrath Eye
+lycanitesmobs:tundracharge, Tundra Charge
+lycanitesmobs:arachnidspawn:0, Spawn Arachnid: Sutiramu
+lycanitesmobs:arachnidspawn:0, Spawn Arachnid: Frostweaver
+lycanitesmobs:arachnidspawn:0, Spawn Arachnid: Lycosa
+lycanitesmobs:ooze, Ooze
+lycanitesmobs:demonstone_stairs, Demonstone Stairs
+lycanitesmobs:aberrantstone_slab_double, Double Aberrantstone Slab
+lycanitesmobs:soulstone_elemental, Elemental Essencestone
+lycanitesmobs:desertstonetile, Desertstone Tile
+lycanitesmobs:desertstone_slab_double, Double Desertstone Slab
+lycanitesmobs:cooked_silex_meat, Cooked Silex Meat
+lycanitesmobs:tricksterflarecharge, item.tricksterflarecharge.name
+lycanitesmobs:saddle_undead, Undead Saddle
+lycanitesmobs:cooked_cephignis_meat, Cooked Cephignis Meat
+lycanitesmobs:anthronianspawn:0, Spawn Anthronian: Wildkin
+lycanitesmobs:anthronianspawn:0, Spawn Anthronian: Troll
+lycanitesmobs:anthronianspawn:0, Spawn Anthronian: Ettin
+lycanitesmobs:saddle_avian, Avian Saddle
+lycanitesmobs:desertstonetile_slab:0, Desertstone Tile Slab
+lycanitesmobs:desertstone_slab:0, Desertstone Slab
+lycanitesmobs:lushstonebrick_wall, Lushstone Brick Wall
+lycanitesmobs:shadowstone_slab:0, Shadowstone Slab
+lycanitesmobs:sprigganroot, Spriggan Root
+lycanitesmobs:cooked_concapede_meat, Cooked Concapede Meat
+lycanitesmobs:wintergift, Winter Gift
+lycanitesmobs:lushcrystal, Lush Crystal
+lycanitesmobs:aberrantcrystal, Aberrant Crystal
+lycanitesmobs:saddle_demon, Demon Saddle
+lycanitesmobs:wormtreat, Worm Treat
+lycanitesmobs:propolis, Propolis
+lycanitesmobs:scorchfire, Scorchfire
+lycanitesmobs:demonstonepillar, Demonstone Pillar
+lycanitesmobs:streamstonebrick_slab:0, Streamstone Brick Slab
+lycanitesmobs:demonicblastcharge, item.demonicblastcharge.name
+lycanitesmobs:wintergiftlarge, Large Winter Gift
+lycanitesmobs:naxiriseye, Naxiris Eye
+lycanitesmobs:bloodleechcharge, Bloodleech Charge
+lycanitesmobs:desertstonebrick_stairs, Desertstone Brick Stairs
+lycanitesmobs:savagesummoningstaff, Savage Summoning Staff
+lycanitesmobs:ashenstonetile_stairs, Ashenstone Tile Stairs
+lycanitesmobs:soulcubedemonic, Demonic Soulcube
+lycanitesmobs:cinderblade, Cinder Blade
+lycanitesmobs:geonachfist, Geonach Fist
+lycanitesmobs:woodenpaxel, Wooden Paxel
+lycanitesmobs:soulstone_reptile, Reptile Soulstone
+lycanitesmobs:soulstone_worm, Worm Soulstone
+lycanitesmobs:desertstonebrick_wall, Desertstone Brick Wall
+lycanitesmobs:aberrantstone_slab:0, Aberrantstone Slab
+lycanitesmobs:shadowstonepolished, Polished Shadowstone
+lycanitesmobs:frostwebcharge, Frostweb Charge
+lycanitesmobs:woodenhilt, Wooden Guard
+lycanitesmobs:shadowstonebrick, Shadowstone Brick
+lycanitesmobs:equipment, Crafted Equipment
+lycanitesmobs:soulstone_avian, Avian Soulstone
+lycanitesmobs:caecilian_ramen, Caecilian Ramen
+lycanitesmobs:insecttreat, Insect Treat
+lycanitesmobs:chaosorbcharge, Chaos Orb Charge
+lycanitesmobs:poisonraycharge, item.poisonraycharge.name
+lycanitesmobs:aquatictreat, Aquatic Treat
+lycanitesmobs:aberrationspawn:0, Spawn Aberration: Naxiris
+lycanitesmobs:aberrationspawn:0, Spawn Aberration: Trite
+lycanitesmobs:aberrationspawn:0, Spawn Aberration: Shade
+lycanitesmobs:aberrationspawn:0, Spawn Aberration: Asmodeus
+lycanitesmobs:aberrationspawn:0, Spawn Aberration: Yale
+lycanitesmobs:aberrationspawn:0, Spawn Aberration: Grell
+lycanitesmobs:aberrationspawn:0, Spawn Aberration: Astaroth
+lycanitesmobs:aberrationspawn:0, Spawn Aberration: Krake
+lycanitesmobs:aberrationspawn:0, Spawn Aberration: Grigori
+lycanitesmobs:spectretendril, Spectre Tendril
+lycanitesmobs:lushstone_slab_double, Double Lushstone Slab
+lycanitesmobs:soulgazer, Soulgazer
+lycanitesmobs:streamstonetile_slab:0, Streamstone Tile Slab
+lycanitesmobs:wormspawn:0, Spawn Worm: Crusk
+lycanitesmobs:wormspawn:0, Spawn Worm: Serpix
+lycanitesmobs:wormspawn:0, Spawn Worm: Ika
+lycanitesmobs:wormspawn:0, Spawn Worm: Gorger
+lycanitesmobs:demonstonetile, Demonstone Tile
+lycanitesmobs:desertstonebrick, Desertstone Brick
+lycanitesmobs:doomfireballcharge, item.doomfireballcharge.name
+lycanitesmobs:devilstarcharge, Devilstar Charge
+lycanitesmobs:shadowstonetile_slab:0, Shadowstone Tile Slab
+lycanitesmobs:eechetikarm, Eechetik Arm
+lycanitesmobs:shadowstonebrick_wall, Shadowstone Brick Wall
+lycanitesmobs:bucketmoglava, Moglava Bucket
+lycanitesmobs:streamstonechiseled, Chiseled Streamstone
+lycanitesmobs:sturdysummoningstaff, Sturdy Summoning Staff
+lycanitesmobs:lushstonetile_stairs, Lushstone Tile Stairs
+lycanitesmobs:demonstonebrick_stairs, Demonstone Brick Stairs
+lycanitesmobs:sprigganheart, Spriggan Heart
+lycanitesmobs:bansheeeye, Banshee Eye
+lycanitesmobs:saddle_beast, Beast Saddle
+lycanitesmobs:saddle_imp, Imp Saddle
+lycanitesmobs:desertstone_stairs, Desertstone Stairs
+lycanitesmobs:tropical_curry, Tropical Curry
+lycanitesmobs:conbabutt, Conba Butt
+lycanitesmobs:sylphwing, Sylph Wing
+lycanitesmobs:ashenstone_stairs, Ashenstone Stairs
+lycanitesmobs:battle_burrito, Battle Burrito
+lycanitesmobs:blood_chili, Blood Chili
+lycanitesmobs:aberrantstonebrick_wall, Aberrantstone Brick Wall
+lycanitesmobs:soulstone_demon, Demon Soulstone
+lycanitesmobs:grueclaw, Grue Claw
+lycanitesmobs:immunizer, Immunizer
+lycanitesmobs:halloweentreat, Halloween Treat
+lycanitesmobs:streamstone_slab:0, Streamstone Slab
+lycanitesmobs:saddle_insect, Insect Saddle
+lycanitesmobs:moglava, Moglava
+lycanitesmobs:lapis_fish_and_chips, Lapis Fish and Chips
+lycanitesmobs:magmacharge, Magma Charge
+lycanitesmobs:frostboltcharge, Frostbolt Charge
+lycanitesmobs:avianspawn:0, Spawn Avian: Uvaraptor
+lycanitesmobs:avianspawn:0, Spawn Avian: Roc
+lycanitesmobs:avianspawn:0, Spawn Avian: Raiko
+lycanitesmobs:avianspawn:0, Spawn Avian: Ventoraptor
+lycanitesmobs:desertstonetile_stairs, Desertstone Tile Stairs
+lycanitesmobs:afritlung, Afrit Lung
+lycanitesmobs:angeltreat, Angel Treat
+lycanitesmobs:aberrantstonebrick_fence, Aberrantstone Brick Fence
+lycanitesmobs:quickweb, Quickweb
+lycanitesmobs:remobrawing, Remobra Wing
+lycanitesmobs:desertstonebrick_fence, Desertstone Brick Fence
+lycanitesmobs:spectralboltcharge, Spectral Bolt Charge
+lycanitesmobs:doomfire, Doomfire
+lycanitesmobs:moss_pie, Moss Pie
+lycanitesmobs:uvaraptorskull, Uvaraptor Skull
+lycanitesmobs:cooked_bobeko_meat, Cooked Bobeko Meat
+lycanitesmobs:desertstonepolished, Polished Desertstone
+lycanitesmobs:summoningstaff, Summoning Staff
+lycanitesmobs:demonstonechiseled, Chiseled Demonstone
+lycanitesmobs:venomshotcharge, Venomshot Charge
+lycanitesmobs:explorers_risotto, Explorers Risotto
+lycanitesmobs:aberrantstone, Aberrantstone
+lycanitesmobs:hellfire, Hellfire
+lycanitesmobs:icefire, Icefire
+lycanitesmobs:wildkinarm, Wildkin Arm
+lycanitesmobs:poison, tile.poison.name
+lycanitesmobs:equipment_station, tile.equipment_station.name
+lycanitesmobs:boulderblastcharge, Boulder Blast Charge
+lycanitesmobs:ashenstonechiseled, Chiseled Ashenstone
+lycanitesmobs:peaks_kebab, Peaks Kebab
+lycanitesmobs:hellfireballcharge, item.hellfireballcharge.name
+lycanitesmobs:mobtoken, Mob Token
+lycanitesmobs:scorchfireballcharge, item.scorchfireballcharge.name
+lycanitesmobs:soulstone_anthronian, Anthronian Soulstone
+lycanitesmobs:wraithsigil, Wraith Sigil
+lycanitesmobs:throwingscythecharge, item.throwingscythecharge.name
+lycanitesmobs:soulcubeaberrant, Aberrant Soulcube
+lycanitesmobs:acidsplashcharge, Acid Splash Charge
+lycanitesmobs:streamstonetile_stairs, Streamstone Tile Stairs
+lycanitesmobs:aberrantstonepolished, Polished Aberrantstone
+lycanitesmobs:desertstone, Desertstone
+lycanitesmobs:zephyrcloud, Zephyr Cloud
+lycanitesmobs:sutiramustinger, Sutiramu Stinger
+lycanitesmobs:ironhilt, Iron Guard
+lycanitesmobs:lobdarklingscharge, Lob Darklings Charge
+lycanitesmobs:frostweaverleg, Frostweaver Leg
+lycanitesmobs:anthroniantreat, Anthronian Treat
+lycanitesmobs:wendigoantler, Wendigo Antler
+lycanitesmobs:epionwing, Epion Wing
+lycanitesmobs:lushstonetile, Lushstone Tile
+lycanitesmobs:desertstonepillar, Desertstone Pillar
+lycanitesmobs:raw_krake_meat, Raw Krake Meat
+lycanitesmobs:stablesummoningstaff, Stable Summoning Staff
+lycanitesmobs:demonstonebrick_wall, Demonstone Brick Wall
+lycanitesmobs:raw_yale_meat, Raw Yale Meat
+lycanitesmobs:vespidstinger, Vespid Stinger
+lycanitesmobs:argustail, Argus Tail
+lycanitesmobs:equipmentforge_lesser, Lesser Equipment Forge (Lvl 1)
+lycanitesmobs:golemtreat, Golem Treat
+lycanitesmobs:raw_pinky_meat, Raw Pinky Meat
+lycanitesmobs:cooked_pinky_meat, Cooked Pinky Meat
+lycanitesmobs:vesspoison, tile.vesspoison.name
+lycanitesmobs:soulkeyemerald, Emerald Soulkey
+lycanitesmobs:poopcharge, Poop
+lycanitesmobs:frostfire, Frostfire
+lycanitesmobs:bucketveshoney, Veshoney Bucket
+lycanitesmobs:aquapulsecharge, Aqua Pulse Charge
+lycanitesmobs:saddle_amphibian, Amphibian Saddle
+lycanitesmobs:equipmentforge_master, Master Equipment Forge (Lvl 3)
+lycanitesmobs:aberrantstonetile, Aberrantstone Tile
+lycanitesmobs:aberrantstone_stairs, Aberrantstone Stairs
+lycanitesmobs:insectspawn:0, Spawn Insect: Vespid Queen
+lycanitesmobs:insectspawn:0, Spawn Insect: Eyewig
+lycanitesmobs:insectspawn:0, Spawn Insect: Vespid
+lycanitesmobs:insectspawn:0, Spawn Insect: Concapede
+lycanitesmobs:insectspawn:0, Spawn Insect: Jouste
+lycanitesmobs:insectspawn:0, Spawn Insect: Jouste Alpha
+lycanitesmobs:insectspawn:0, Spawn Insect: Gorgomite
+lycanitesmobs:insectspawn:0, Spawn Insect: Darkling
+lycanitesmobs:insectspawn:0, Spawn Insect: Ostimien
+lycanitesmobs:insectspawn:0, Spawn Insect: Calpod
+lycanitesmobs:insectspawn:0, Spawn Insect: Erepede
+lycanitesmobs:insectspawn:0, Spawn Insect: Concapede Segment
+lycanitesmobs:aberrationtreat, Aberration Treat
+lycanitesmobs:ashenstonebrick_wall, Ashenstone Brick Wall
+lycanitesmobs:ventoraptorskull, Ventoraptor Skull
+lycanitesmobs:geistliver, Geist Liver
+lycanitesmobs:cooked_krake_meat, Cooked Krake Meat
+lycanitesmobs:ioraystinger, Ioray Stinger
+lycanitesmobs:aviantreat, Avian Treat
+lycanitesmobs:streamstone, Streamstone
+lycanitesmobs:streamstonebrick_fence, Streamstone Brick Fence
+lycanitesmobs:cooked_arisaur_meat, Cooked Arisaur Meat
+lycanitesmobs:ashenstonebrick, Ashenstone Brick
+lycanitesmobs:lightballcharge, item.lightballcharge.name
+lycanitesmobs:desertstonebrick_slab:0, Desertstone Brick Slab
+lycanitesmobs:entarm, Ent Arm
+lycanitesmobs:elementalspawn:0, Spawn Elemental: Spriggan
+lycanitesmobs:elementalspawn:0, Spawn Elemental: Tremor
+lycanitesmobs:elementalspawn:0, Spawn Elemental: Vapula
+lycanitesmobs:elementalspawn:0, Spawn Elemental: Geonach
+lycanitesmobs:elementalspawn:0, Spawn Elemental: Cinder
+lycanitesmobs:elementalspawn:0, Spawn Elemental: Reiver
+lycanitesmobs:elementalspawn:0, Spawn Elemental: Jengu
+lycanitesmobs:elementalspawn:0, Spawn Elemental: Spectre
+lycanitesmobs:elementalspawn:0, Spawn Elemental: Banshee
+lycanitesmobs:elementalspawn:0, Spawn Elemental: Grue
+lycanitesmobs:elementalspawn:0, Spawn Elemental: Aegis
+lycanitesmobs:elementalspawn:0, Spawn Elemental: Raidra
+lycanitesmobs:elementalspawn:0, Spawn Elemental: Zephyr
+lycanitesmobs:elementalspawn:0, Spawn Elemental: Eechetik
+lycanitesmobs:elementalspawn:0, Spawn Elemental: Wraith
+lycanitesmobs:elementalspawn:0, Spawn Elemental: Sylph
+lycanitesmobs:elementalspawn:0, Spawn Elemental: Volcan
+lycanitesmobs:elementalspawn:0, Spawn Elemental: Wisp
+lycanitesmobs:elementalspawn:0, Spawn Elemental: Argus
+lycanitesmobs:elementalspawn:0, Spawn Elemental: Nymph
+lycanitesmobs:elementalspawn:0, Spawn Elemental: Xaphan
+lycanitesmobs:mudshotcharge, Mudshot Charge
+lycanitesmobs:raw_ika_meat, Raw Ika Meat
+lycanitesmobs:frostyfur, Frosty Fur
+lycanitesmobs:reaperclaw, Reaper Claw
+lycanitesmobs:erepededrill, Erepede Drill
+lycanitesmobs:goldscepterhead, Gold Scepter Head
+lycanitesmobs:lushstonepillar, Lushstone Pillar
+lycanitesmobs:streamstone_slab_double, Double Streamstone Slab
+lycanitesmobs:saddle_worm, Worm Saddle
+lycanitesmobs:saddle_arachnid, Arachnid Saddle
+lycanitesmobs:raw_arisaur_meat, Raw Arisaur Meat
+lycanitesmobs:raidrablade, Raidra Blade
+lycanitesmobs:crystalshardcharge, item.crystalshardcharge.name
+lycanitesmobs:soulstone_golem, Golem Soulstone
+lycanitesmobs:primeembercharge, item.primeembercharge.name
+lycanitesmobs:bucketacid, Acid Bucket
+lycanitesmobs:soulstone, Soulstone
+lycanitesmobs:poopcloud, Poop Cloud
+lycanitesmobs:summoningpedestal, Summoning Pedestal
+lycanitesmobs:lushstonepolished, Polished Lushstone
+lycanitesmobs:raw_silex_meat, Raw Silex Meat
+lycanitesmobs:plantspawn:0, Spawn Plant: Triffid
+lycanitesmobs:plantspawn:0, Spawn Plant: Treant
+lycanitesmobs:plantspawn:0, Spawn Plant: Tpumpkyn
+lycanitesmobs:plantspawn:0, Spawn Plant: Ent
+lycanitesmobs:plantspawn:0, Spawn Plant: Shambler
+lycanitesmobs:paleo_salad, Paleo Salad
+lycanitesmobs:poisongland, Poison Gland
+lycanitesmobs:behemophethand, Behemophet Hand
+lycanitesmobs:primefire, Primefire
+lycanitesmobs:saddle_angel, Angel Saddle
+lycanitesmobs:bucketsharacid, Sharacid Bucket
+lycanitesmobs:bucketooze, Ooze Bucket
+lycanitesmobs:wraithskull, Wraith Skull
+lycanitesmobs:smitefireballcharge, Smite Fireball Charge
+lycanitesmobs:golemspawn:0, Spawn Golem: Cherufe
+lycanitesmobs:demonstone_slab:0, Demonstone Slab
+lycanitesmobs:belphegorarm, Belphegor Arm
+lycanitesmobs:woodenrod, Wooden Rod
+lycanitesmobs:ashenstonebrick_slab:0, Ashenstone Brick Slab
+lycanitesmobs:bulwark_burger, Bulwark Burger
+lycanitesmobs:poisoncloud, Poison Cloud
+lycanitesmobs:saddle_aquatic, Aquatic Saddle
+lycanitesmobs:cooked_maka_meat, Cooked Maka Meat
+lycanitesmobs:shadowstonetile, Shadowstone Tile
+lycanitesmobs:aberrantstonepillar, Aberrantstone Pillar
+lycanitesmobs:saddle_aberration, Aberration Saddle
+lycanitesmobs:amphibiantreat, Amphibian Treat
+lycanitesmobs:desertcrystal, Desert Crystal
+lycanitesmobs:arachnidtreat, Arachnid Treat
+lycanitesmobs:soulstone_plant, Plant Soulstone
+lycanitesmobs:lushstone_slab:0, Lushstone Slab
+lycanitesmobs:raw_maka_meat, Raw Maka Meat
+lycanitesmobs:demonstonebrick_fence, Demonstone Brick Fence
+lycanitesmobs:streamstone_stairs, Streamstone Stairs
+lycanitesmobs:xaphanspine, Xaphan Spine
+lycanitesmobs:beasttreat, Beast Treat
+lycanitesmobs:lushstonechiseled, Chiseled Lushstone
+lycanitesmobs:gammasphere, Gamma Sphere
+lycanitesmobs:ettinclub, Ettin Club
+lycanitesmobs:saddle_golem, Golem Saddle
+lycanitesmobs:stryderheart, Stryder Heart
+lycanitesmobs:soulcubeundead, Undead Soulcube
+lycanitesmobs:equipment_infuser, tile.equipment_infuser.name
+lycanitesmobs:demonstonetile_slab:0, Demonstone Tile Slab
+lycanitesmobs:bucketrabbitooze, Rabbitooze Bucket
+lycanitesmobs:raw_chupacabra_meat, Raw Chupacabra Meat
+lycanitesmobs:shadowstonebrick_slab:0, Shadowstone Brick Slab
+lycanitesmobs:ashencrystal, Ashen Crystal
+lycanitesmobs:soulstone_angel, Angel Soulstone
+lycanitesmobs:soulkeydiamond, Diamond Soulkey
+lycanitesmobs:lushstone, Lushstone
+lycanitesmobs:soulstone_beast, Beast Soulstone
+lycanitesmobs:shadowstonepillar, Shadowstone Pillar
+lycanitesmobs:lushstonebrick, Lushstone Brick
+lycanitesmobs:bucketvesspoison, Vesspoison Bucket
+lycanitesmobs:amphibianspawn:0, Spawn Amphibian: Aglebemu
+lycanitesmobs:amphibianspawn:0, Spawn Amphibian: Salamander
+lycanitesmobs:amphibianspawn:0, Spawn Amphibian: Ningen
+lycanitesmobs:streamstonebrick_stairs, Streamstone Brick Stairs
+lycanitesmobs:vapulacrystal, Vapula Crystal
+lycanitesmobs:soulstone_insect, Insect Soulstone
+lycanitesmobs:reptiletreat, Reptile Treat
+lycanitesmobs:blizzardcharge, Blizzard Charge
+lycanitesmobs:raw_bobeko_meat, Raw Bobeko Meat
+lycanitesmobs:soulstone_amphibian, Amphibian Soulstone
+lycanitesmobs:demonspawn:0, Spawn Demon: Vorach
+lycanitesmobs:demonspawn:0, Spawn Demon: Behemophet
+lycanitesmobs:demonspawn:0, Spawn Demon: Belphegor
+lycanitesmobs:demonspawn:0, Spawn Demon: Kathoga
+lycanitesmobs:demonspawn:0, Spawn Demon: Apollyon
+lycanitesmobs:demonspawn:0, Spawn Demon: Malwrath
+lycanitesmobs:demonspawn:0, Spawn Demon: Rahovart
+lycanitesmobs:demonstone_slab_double, Double Demonstone Slab
+lycanitesmobs:waterjetcharge, Water Jet Charge
+lycanitesmobs:devil_lasagna, Devil Lasagna
+lycanitesmobs:aberrantstonetile_stairs, Aberrantstone Tile Stairs
+lycanitesmobs:reiverhorns, Reiver Horns
+lycanitesmobs:eyewigeye, Eyewig Eye
+lycanitesmobs:soulstone_slime, Slime Soulstone
+lycanitesmobs:equipmentforge_greater, Greater Equipment Forge (Lvl 2)
+lycanitesmobs:amber_cake, Amber Cake
+lycanitesmobs:streamstonebrick, Streamstone Brick
+lycanitesmobs:demonstonebrick, Demonstone Brick
+lycanitesmobs:veswax, Veswax
+lycanitesmobs:demonstonepolished, Polished Demonstone
+lycanitesmobs:demonstonetile_stairs, Demonstone Tile Stairs
+lycanitesmobs:ironpaxel, Iron Paxel
 patchouli:guide_book, Guide Book
