@@ -580,9 +580,9 @@ minecraft:rabbit_stew, Rabbit Stew
 minecraft:rabbit_foot, Rabbit's Foot
 minecraft:rabbit_hide, Rabbit Hide
 minecraft:armor_stand, Armor Stand
-minecraft:iron_horse_armor, Iron Horse Armor
-minecraft:golden_horse_armor, Gold Horse Armor
-minecraft:diamond_horse_armor, Diamond Horse Armor
+minecraft:iron_horse_armor, Iron Pet Armor
+minecraft:golden_horse_armor, Golden Pet Armor
+minecraft:diamond_horse_armor, Diamond Pet Armor
 minecraft:lead, Lead
 minecraft:name_tag, Name Tag
 minecraft:command_block_minecart, Minecart with Command Block
@@ -4279,6 +4279,14 @@ ic2:fluid_cell:0, Universal Fluid Cell
 ic2:fluid_cell:0, Universal Fluid Cell
 ic2:fluid_cell:0, Universal Fluid Cell
 ic2:fluid_cell:0, Universal Fluid Cell
+ic2:fluid_cell:0, Universal Fluid Cell
+ic2:fluid_cell:0, Universal Fluid Cell
+ic2:fluid_cell:0, Universal Fluid Cell
+ic2:fluid_cell:0, Universal Fluid Cell
+ic2:fluid_cell:0, Universal Fluid Cell
+ic2:fluid_cell:0, Universal Fluid Cell
+ic2:fluid_cell:0, Universal Fluid Cell
+ic2:fluid_cell:0, Universal Fluid Cell
 ic2:cable:0, Copper Cable
 ic2:cable:0, Insulated Copper Cable
 ic2:cable:1, Glass Fibre Cable
@@ -6250,6 +6258,79 @@ appliedenergistics2:facade:0, Cable Facade - White Crystal Block
 appliedenergistics2:facade:0, Cable Facade - Purple Crystal Block
 appliedenergistics2:facade:0, Cable Facade - Red Crystal Block
 appliedenergistics2:facade:0, Cable Facade - Structure Spawn Block
+appliedenergistics2:facade:0, Cable Facade - Ashenstone Brick
+appliedenergistics2:facade:0, Cable Facade - Ashenstone
+appliedenergistics2:facade:0, Cable Facade - Streamstone Pillar
+appliedenergistics2:facade:0, Cable Facade - Frostweb
+appliedenergistics2:facade:0, Cable Facade - Lushstone Pillar
+appliedenergistics2:facade:0, Cable Facade - Double Streamstone Slab
+appliedenergistics2:facade:0, Cable Facade - Demon Crystal
+appliedenergistics2:facade:0, Cable Facade - Shadow Crystal
+appliedenergistics2:facade:0, Cable Facade - Quickweb
+appliedenergistics2:facade:0, Cable Facade - Ashenstone Tile
+appliedenergistics2:facade:0, Cable Facade - Doomfire
+appliedenergistics2:facade:0, Cable Facade - Poop Cloud
+appliedenergistics2:facade:0, Cable Facade - Polished Desertstone
+appliedenergistics2:facade:0, Cable Facade - Chiseled Demonstone
+appliedenergistics2:facade:0, Cable Facade - Double Aberrantstone Slab
+appliedenergistics2:facade:0, Cable Facade - Desertstone Tile
+appliedenergistics2:facade:0, Cable Facade - Polished Lushstone
+appliedenergistics2:facade:0, Cable Facade - Double Desertstone Slab
+appliedenergistics2:facade:0, Cable Facade - Chiseled Desertstone
+appliedenergistics2:facade:0, Cable Facade - Aberrantstone
+appliedenergistics2:facade:0, Cable Facade - Polished Streamstone
+appliedenergistics2:facade:0, Cable Facade - Hellfire
+appliedenergistics2:facade:0, Cable Facade - Primefire
+appliedenergistics2:facade:0, Cable Facade - Double Shadowstone Slab
+appliedenergistics2:facade:0, Cable Facade - Chiseled Shadowstone
+appliedenergistics2:facade:0, Cable Facade - Icefire
+appliedenergistics2:facade:0, Cable Facade - Poison Cloud
+appliedenergistics2:facade:0, Cable Facade - Double Ashenstone Slab
+appliedenergistics2:facade:0, Cable Facade - Shadowfire
+appliedenergistics2:facade:0, Cable Facade - Shadowstone Tile
+appliedenergistics2:facade:0, Cable Facade - Aberrantstone Pillar
+appliedenergistics2:facade:0, Cable Facade - Lush Crystal
+appliedenergistics2:facade:0, Cable Facade - Desert Crystal
+appliedenergistics2:facade:0, Cable Facade - Chiseled Ashenstone
+appliedenergistics2:facade:0, Cable Facade - Aberrant Crystal
+appliedenergistics2:facade:0, Cable Facade - Propolis
+appliedenergistics2:facade:0, Cable Facade - Scorchfire
+appliedenergistics2:facade:0, Cable Facade - Demonstone Pillar
+appliedenergistics2:facade:0, Cable Facade - Chiseled Lushstone
+appliedenergistics2:facade:0, Cable Facade - Ashenstone Pillar
+appliedenergistics2:facade:0, Cable Facade - Aberrant Soulcube
+appliedenergistics2:facade:0, Cable Facade - Demonic Soulcube
+appliedenergistics2:facade:0, Cable Facade - Aberrantstone Brick
+appliedenergistics2:facade:0, Cable Facade - Polished Aberrantstone
+appliedenergistics2:facade:0, Cable Facade - Undead Soulcube
+appliedenergistics2:facade:0, Cable Facade - Frostcloud
+appliedenergistics2:facade:0, Cable Facade - Streamstone Tile
+appliedenergistics2:facade:0, Cable Facade - Desertstone
+appliedenergistics2:facade:0, Cable Facade - Shadowstone
+appliedenergistics2:facade:0, Cable Facade - Polished Shadowstone
+appliedenergistics2:facade:0, Cable Facade - Ashen Crystal
+appliedenergistics2:facade:0, Cable Facade - Shadowstone Brick
+appliedenergistics2:facade:0, Cable Facade - Lushstone Tile
+appliedenergistics2:facade:0, Cable Facade - Lushstone
+appliedenergistics2:facade:0, Cable Facade - Desertstone Pillar
+appliedenergistics2:facade:0, Cable Facade - Shadowstone Pillar
+appliedenergistics2:facade:0, Cable Facade - Lushstone Brick
+appliedenergistics2:facade:0, Cable Facade - Double Lushstone Slab
+appliedenergistics2:facade:0, Cable Facade - Demonstone Tile
+appliedenergistics2:facade:0, Cable Facade - Desertstone Brick
+appliedenergistics2:facade:0, Cable Facade - Double Demonstone Slab
+appliedenergistics2:facade:0, Cable Facade - Frostfire
+appliedenergistics2:facade:0, Cable Facade - Stream Crystal
+appliedenergistics2:facade:0, Cable Facade - Aberrantstone Tile
+appliedenergistics2:facade:0, Cable Facade - Streamstone Brick
+appliedenergistics2:facade:0, Cable Facade - Demonstone Brick
+appliedenergistics2:facade:0, Cable Facade - Veswax
+appliedenergistics2:facade:0, Cable Facade - Chiseled Streamstone
+appliedenergistics2:facade:0, Cable Facade - Polished Demonstone
+appliedenergistics2:facade:0, Cable Facade - Demonstone
+appliedenergistics2:facade:0, Cable Facade - Chiseled Aberrantstone
+appliedenergistics2:facade:0, Cable Facade - Polished Ashenstone
+appliedenergistics2:facade:0, Cable Facade - Streamstone
 appliedenergistics2:crystal_seed:0, Certus Quartz Seed
 appliedenergistics2:crystal_seed:600, Nether Quartz Seed
 appliedenergistics2:crystal_seed:1200, Fluix Seed
@@ -7978,24 +8059,6 @@ cfm:ceiling_fan_fans, item.ceiling_fan_fans.name
 cfm:tv_remote, TV Remote
 gravestone:gravestone, Grave
 gravestone:death_info, Obituary
-ironchest:iron_gold_chest_upgrade, Iron to Gold Chest Upgrade
-ironchest:gold_diamond_chest_upgrade, Gold to Diamond Chest Upgrade
-ironchest:copper_silver_chest_upgrade, Copper to Silver Chest Upgrade
-ironchest:silver_gold_chest_upgrade, Silver to Gold Chest Upgrade
-ironchest:copper_iron_chest_upgrade, Copper to Iron Chest Upgrade
-ironchest:diamond_crystal_chest_upgrade, Diamond to Crystal Chest Upgrade
-ironchest:wood_iron_chest_upgrade, Wood to Iron Chest Upgrade
-ironchest:wood_copper_chest_upgrade, Wood to Copper Chest Upgrade
-ironchest:diamond_obsidian_chest_upgrade, Diamond to Obsidian Chest Upgrade
-ironchest:iron_gold_shulker_upgrade, Iron to Gold Shulker Box Upgrade
-ironchest:gold_diamond_shulker_upgrade, Gold to Diamond Shulker Box Upgrade
-ironchest:copper_silver_shulker_upgrade, Copper to Silver Shulker Box Upgrade
-ironchest:silver_gold_shulker_upgrade, Silver to Gold Shulker Box Upgrade
-ironchest:copper_iron_shulker_upgrade, Copper to Iron Shulker Box Upgrade
-ironchest:diamond_crystal_shulker_upgrade, Diamond to Crystal Shulker Box Upgrade
-ironchest:vanilla_iron_shulker_upgrade, Vanilla to Iron Shulker Box Upgrade
-ironchest:vanilla_copper_shulker_upgrade, Vanilla to Copper Shulker Box Upgrade
-ironchest:diamond_obsidian_shulker_upgrade, Diamond to Obsidian Shulker Box Upgrade
 ironchest:iron_chest:0, Iron Chest
 ironchest:iron_chest:1, Gold Chest
 ironchest:iron_chest:2, Diamond Chest
@@ -8116,6 +8179,24 @@ ironchest:iron_shulker_box_black:3, Black Copper Shulker Box
 ironchest:iron_shulker_box_black:4, Black Silver Shulker Box
 ironchest:iron_shulker_box_black:5, Black Crystal Shulker Box
 ironchest:iron_shulker_box_black:6, Black Obsidian Shulker Box
+ironchest:iron_gold_chest_upgrade, Iron to Gold Chest Upgrade
+ironchest:gold_diamond_chest_upgrade, Gold to Diamond Chest Upgrade
+ironchest:copper_silver_chest_upgrade, Copper to Silver Chest Upgrade
+ironchest:silver_gold_chest_upgrade, Silver to Gold Chest Upgrade
+ironchest:copper_iron_chest_upgrade, Copper to Iron Chest Upgrade
+ironchest:diamond_crystal_chest_upgrade, Diamond to Crystal Chest Upgrade
+ironchest:wood_iron_chest_upgrade, Wood to Iron Chest Upgrade
+ironchest:wood_copper_chest_upgrade, Wood to Copper Chest Upgrade
+ironchest:diamond_obsidian_chest_upgrade, Diamond to Obsidian Chest Upgrade
+ironchest:iron_gold_shulker_upgrade, Iron to Gold Shulker Box Upgrade
+ironchest:gold_diamond_shulker_upgrade, Gold to Diamond Shulker Box Upgrade
+ironchest:copper_silver_shulker_upgrade, Copper to Silver Shulker Box Upgrade
+ironchest:silver_gold_shulker_upgrade, Silver to Gold Shulker Box Upgrade
+ironchest:copper_iron_shulker_upgrade, Copper to Iron Shulker Box Upgrade
+ironchest:diamond_crystal_shulker_upgrade, Diamond to Crystal Shulker Box Upgrade
+ironchest:vanilla_iron_shulker_upgrade, Vanilla to Iron Shulker Box Upgrade
+ironchest:vanilla_copper_shulker_upgrade, Vanilla to Copper Shulker Box Upgrade
+ironchest:diamond_obsidian_shulker_upgrade, Diamond to Obsidian Shulker Box Upgrade
 ironfurnaces:iron_furnace_idle, Iron Furnace
 ironfurnaces:iron_furnace_active, Iron Furnace
 ironfurnaces:gold_furnace_idle, Gold Furnace
@@ -8659,6 +8740,27 @@ mowziesmobs:barakoa_mask_bliss, Mask of Bliss
 mowziesmobs:barakoa_mask_misery, Mask of Misery
 naturescompass:naturescompass, Nature's Compass
 paraglider:paraglider:0, Paraglider
+storagedrawers:upgrade_template, Upgrade Template
+storagedrawers:upgrade_storage:0, Storage Upgrade (I)
+storagedrawers:upgrade_storage:1, Storage Upgrade (II)
+storagedrawers:upgrade_storage:2, Storage Upgrade (III)
+storagedrawers:upgrade_storage:3, Storage Upgrade (IV)
+storagedrawers:upgrade_storage:4, Storage Upgrade (V)
+storagedrawers:upgrade_one_stack, Storage Downgrade
+storagedrawers:upgrade_status:0, Status Upgrade (I)
+storagedrawers:upgrade_status:1, Status Upgrade (II)
+storagedrawers:upgrade_void, Void Upgrade
+storagedrawers:upgrade_conversion, Conversion Upgrade
+storagedrawers:upgrade_creative:0, Creative Storage Upgrade
+storagedrawers:upgrade_creative:1, Creative Vending Upgrade
+storagedrawers:upgrade_redstone:0, Redstone Upgrade
+storagedrawers:upgrade_redstone:1, Redstone Max Upgrade
+storagedrawers:upgrade_redstone:2, Redstone Min Upgrade
+storagedrawers:drawer_key, Drawer Key
+storagedrawers:shroud_key, Concealment Key
+storagedrawers:personal_key, Personal Key
+storagedrawers:quantify_key, Quantify Key
+storagedrawers:tape, Packing Tape
 storagedrawers:basicdrawers:0, Basic Drawer
 storagedrawers:basicdrawers:0, Basic Drawer
 storagedrawers:basicdrawers:0, Basic Drawer
@@ -8709,27 +8811,6 @@ storagedrawers:customdrawers:3, Framed Half Drawers 1x2
 storagedrawers:customdrawers:4, Framed Half Drawers 2x2
 storagedrawers:customtrim, Framed Trim
 storagedrawers:framingtable, Framing Table
-storagedrawers:upgrade_template, Upgrade Template
-storagedrawers:upgrade_storage:0, Storage Upgrade (I)
-storagedrawers:upgrade_storage:1, Storage Upgrade (II)
-storagedrawers:upgrade_storage:2, Storage Upgrade (III)
-storagedrawers:upgrade_storage:3, Storage Upgrade (IV)
-storagedrawers:upgrade_storage:4, Storage Upgrade (V)
-storagedrawers:upgrade_one_stack, Storage Downgrade
-storagedrawers:upgrade_status:0, Status Upgrade (I)
-storagedrawers:upgrade_status:1, Status Upgrade (II)
-storagedrawers:upgrade_void, Void Upgrade
-storagedrawers:upgrade_conversion, Conversion Upgrade
-storagedrawers:upgrade_creative:0, Creative Storage Upgrade
-storagedrawers:upgrade_creative:1, Creative Vending Upgrade
-storagedrawers:upgrade_redstone:0, Redstone Upgrade
-storagedrawers:upgrade_redstone:1, Redstone Max Upgrade
-storagedrawers:upgrade_redstone:2, Redstone Min Upgrade
-storagedrawers:drawer_key, Drawer Key
-storagedrawers:shroud_key, Concealment Key
-storagedrawers:personal_key, Personal Key
-storagedrawers:quantify_key, Quantify Key
-storagedrawers:tape, Packing Tape
 twilightforest:naga_scale, Naga Scale
 twilightforest:naga_chestplate, Naga Scale Tunic
 twilightforest:naga_leggings, Naga Scale Leggings
@@ -9274,33 +9355,33 @@ tconstruct:slime_vine_purple_mid:0, Purple Slimy Vine
 tconstruct:slime_vine_purple:0, Purple Slimy Vine
 tconstruct:pattern:0, Blank Pattern
 tconstruct:pattern:0, Shard Pattern
+tconstruct:pattern:0, Tool Rod Pattern
+tconstruct:pattern:0, Sharpening Kit Pattern
+tconstruct:pattern:0, Large Plate Pattern
+tconstruct:pattern:0, Sword Blade Pattern
+tconstruct:pattern:0, Knife Blade Pattern
+tconstruct:pattern:0, Tough Binding Pattern
+tconstruct:pattern:0, Scythe Head Pattern
+tconstruct:pattern:0, Pickaxe Head Pattern
+tconstruct:pattern:0, Binding Pattern
+tconstruct:pattern:0, Cross Guard Pattern
+tconstruct:pattern:0, Shovel Head Pattern
+tconstruct:pattern:0, Pan Pattern
+tconstruct:pattern:0, Hand Guard Pattern
+tconstruct:pattern:0, Bowlimb Pattern
+tconstruct:pattern:0, Broad Axe Head Pattern
+tconstruct:pattern:0, Axe Head Pattern
+tconstruct:pattern:0, Tough Tool Rod Pattern
 tconstruct:pattern:0, Arrow Shaft Pattern
 tconstruct:pattern:0, Arrow Head Pattern
-tconstruct:pattern:0, Large Plate Pattern
-tconstruct:pattern:0, Kama Head Pattern
-tconstruct:pattern:0, Shovel Head Pattern
-tconstruct:pattern:0, Scythe Head Pattern
-tconstruct:pattern:0, Large Sword Blade Pattern
-tconstruct:pattern:0, Tool Rod Pattern
-tconstruct:pattern:0, Sword Blade Pattern
-tconstruct:pattern:0, Hammer Head Pattern
-tconstruct:pattern:0, Sharpening Kit Pattern
-tconstruct:pattern:0, Tough Tool Rod Pattern
-tconstruct:pattern:0, Axe Head Pattern
-tconstruct:pattern:0, Binding Pattern
-tconstruct:pattern:0, Broad Axe Head Pattern
-tconstruct:pattern:0, Cross Guard Pattern
-tconstruct:pattern:0, Fletching Pattern
-tconstruct:pattern:0, Pickaxe Head Pattern
-tconstruct:pattern:0, Bowstring Pattern
-tconstruct:pattern:0, Hand Guard Pattern
-tconstruct:pattern:0, Sign Plate Pattern
 tconstruct:pattern:0, Wide Guard Pattern
-tconstruct:pattern:0, Pan Pattern
-tconstruct:pattern:0, Tough Binding Pattern
+tconstruct:pattern:0, Fletching Pattern
+tconstruct:pattern:0, Bowstring Pattern
+tconstruct:pattern:0, Kama Head Pattern
+tconstruct:pattern:0, Hammer Head Pattern
 tconstruct:pattern:0, Excavator Head Pattern
-tconstruct:pattern:0, Bowlimb Pattern
-tconstruct:pattern:0, Knife Blade Pattern
+tconstruct:pattern:0, Large Sword Blade Pattern
+tconstruct:pattern:0, Sign Plate Pattern
 tconstruct:shard:0, Naga Scale Shard
 tconstruct:shard:0, Steeleaf Shard
 tconstruct:shard:0, Fiery Shard
@@ -10289,31 +10370,31 @@ tconstruct:seared_stairs_tile:0, Seared Tile Stairs
 tconstruct:seared_stairs_creeper:0, Seared Creeperface Stairs
 tconstruct:cast:0, Blank Cast
 tconstruct:cast:0, Shard Cast
+tconstruct:cast:0, Tool Rod Cast
+tconstruct:cast:0, Sharpening Kit Cast
+tconstruct:cast:0, Large Plate Cast
+tconstruct:cast:0, Sword Blade Cast
+tconstruct:cast:0, Knife Blade Cast
+tconstruct:cast:0, Tough Binding Cast
+tconstruct:cast:0, Scythe Head Cast
+tconstruct:cast:0, Pickaxe Head Cast
+tconstruct:cast:0, Binding Cast
+tconstruct:cast:0, Cross Guard Cast
+tconstruct:cast:0, Shovel Head Cast
+tconstruct:cast:0, Pan Cast
+tconstruct:cast:0, Hand Guard Cast
+tconstruct:cast:0, Bowlimb Cast
+tconstruct:cast:0, Broad Axe Head Cast
+tconstruct:cast:0, Axe Head Cast
+tconstruct:cast:0, Tough Tool Rod Cast
 tconstruct:cast:0, Arrow Shaft Cast
 tconstruct:cast:0, Arrow Head Cast
-tconstruct:cast:0, Large Plate Cast
-tconstruct:cast:0, Kama Head Cast
-tconstruct:cast:0, Shovel Head Cast
-tconstruct:cast:0, Scythe Head Cast
-tconstruct:cast:0, Large Sword Blade Cast
-tconstruct:cast:0, Tool Rod Cast
-tconstruct:cast:0, Sword Blade Cast
-tconstruct:cast:0, Hammer Head Cast
-tconstruct:cast:0, Sharpening Kit Cast
-tconstruct:cast:0, Tough Tool Rod Cast
-tconstruct:cast:0, Axe Head Cast
-tconstruct:cast:0, Binding Cast
-tconstruct:cast:0, Broad Axe Head Cast
-tconstruct:cast:0, Cross Guard Cast
-tconstruct:cast:0, Pickaxe Head Cast
-tconstruct:cast:0, Hand Guard Cast
-tconstruct:cast:0, Sign Plate Cast
 tconstruct:cast:0, Wide Guard Cast
-tconstruct:cast:0, Pan Cast
-tconstruct:cast:0, Tough Binding Cast
+tconstruct:cast:0, Kama Head Cast
+tconstruct:cast:0, Hammer Head Cast
 tconstruct:cast:0, Excavator Head Cast
-tconstruct:cast:0, Bowlimb Cast
-tconstruct:cast:0, Knife Blade Cast
+tconstruct:cast:0, Large Sword Blade Cast
+tconstruct:cast:0, Sign Plate Cast
 tconstruct:cast_custom:0, Ingot Cast
 tconstruct:cast_custom:1, Nugget Cast
 tconstruct:cast_custom:2, Gem Cast
@@ -10321,31 +10402,31 @@ tconstruct:cast_custom:3, Plate Cast
 tconstruct:cast_custom:4, Gear Cast
 tconstruct:clay_cast:0, item.tconstruct.clay_cast.blank
 tconstruct:clay_cast:0, Shard Clay Cast
+tconstruct:clay_cast:0, Tool Rod Clay Cast
+tconstruct:clay_cast:0, Sharpening Kit Clay Cast
+tconstruct:clay_cast:0, Large Plate Clay Cast
+tconstruct:clay_cast:0, Sword Blade Clay Cast
+tconstruct:clay_cast:0, Knife Blade Clay Cast
+tconstruct:clay_cast:0, Tough Binding Clay Cast
+tconstruct:clay_cast:0, Scythe Head Clay Cast
+tconstruct:clay_cast:0, Pickaxe Head Clay Cast
+tconstruct:clay_cast:0, Binding Clay Cast
+tconstruct:clay_cast:0, Cross Guard Clay Cast
+tconstruct:clay_cast:0, Shovel Head Clay Cast
+tconstruct:clay_cast:0, Pan Clay Cast
+tconstruct:clay_cast:0, Hand Guard Clay Cast
+tconstruct:clay_cast:0, Bowlimb Clay Cast
+tconstruct:clay_cast:0, Broad Axe Head Clay Cast
+tconstruct:clay_cast:0, Axe Head Clay Cast
+tconstruct:clay_cast:0, Tough Tool Rod Clay Cast
 tconstruct:clay_cast:0, Arrow Shaft Clay Cast
 tconstruct:clay_cast:0, Arrow Head Clay Cast
-tconstruct:clay_cast:0, Large Plate Clay Cast
-tconstruct:clay_cast:0, Kama Head Clay Cast
-tconstruct:clay_cast:0, Shovel Head Clay Cast
-tconstruct:clay_cast:0, Scythe Head Clay Cast
-tconstruct:clay_cast:0, Large Sword Blade Clay Cast
-tconstruct:clay_cast:0, Tool Rod Clay Cast
-tconstruct:clay_cast:0, Sword Blade Clay Cast
-tconstruct:clay_cast:0, Hammer Head Clay Cast
-tconstruct:clay_cast:0, Sharpening Kit Clay Cast
-tconstruct:clay_cast:0, Tough Tool Rod Clay Cast
-tconstruct:clay_cast:0, Axe Head Clay Cast
-tconstruct:clay_cast:0, Binding Clay Cast
-tconstruct:clay_cast:0, Broad Axe Head Clay Cast
-tconstruct:clay_cast:0, Cross Guard Clay Cast
-tconstruct:clay_cast:0, Pickaxe Head Clay Cast
-tconstruct:clay_cast:0, Hand Guard Clay Cast
-tconstruct:clay_cast:0, Sign Plate Clay Cast
 tconstruct:clay_cast:0, Wide Guard Clay Cast
-tconstruct:clay_cast:0, Pan Clay Cast
-tconstruct:clay_cast:0, Tough Binding Clay Cast
+tconstruct:clay_cast:0, Kama Head Clay Cast
+tconstruct:clay_cast:0, Hammer Head Clay Cast
 tconstruct:clay_cast:0, Excavator Head Clay Cast
-tconstruct:clay_cast:0, Bowlimb Clay Cast
-tconstruct:clay_cast:0, Knife Blade Clay Cast
+tconstruct:clay_cast:0, Large Sword Blade Clay Cast
+tconstruct:clay_cast:0, Sign Plate Clay Cast
 tconstruct:stone_torch:0, Stone Torch
 tconstruct:stone_ladder:0, Stone Ladder
 tconstruct:punji:0, Punji Sticks
@@ -10442,6 +10523,14 @@ thaumicenergistics:essentia_component_64k, 64k ME Essentia Storage Component
 thaumicenergistics:upgrade_arcane, Arcane Charging Upgrade
 thaumicenergistics:dummy_aspect, item.thaumicenergistics.dummy_aspect.name
 thaumicenergistics:infusion_provider, Essentia Infusion Provider
+thaumictinkerer:share_book, Tome of Knowledge Sharing
+thaumictinkerer:black_quartz, Smokey Quartz
+thaumictinkerer:connector, Transvector Binder
+thaumictinkerer:soul_mould, Soul Mould
+thaumictinkerer:energetic_nitor, Energetic Nitor
+thaumictinkerer:spellbinding_cloth, Spellbinding Cloth
+thaumictinkerer:blood_sword, Cursed Spirit's Blade
+thaumictinkerer:mob_aspect, item.thaumictinkerer:mob_aspect.name
 thaumictinkerer:funnel, Essentia Funnel
 thaumictinkerer:dissimulation, Dissimulation Block
 thaumictinkerer:transvector_interface, Transvector Interface
@@ -10454,14 +10543,6 @@ thaumictinkerer:enchantment_pillar, Enchanting Pillar
 thaumictinkerer:animation_tablet, Dynamism Tablet
 thaumictinkerer:black_quartz_block, Black Quartz Block
 thaumictinkerer:dummy_nitor, tile.thaumictinkerer:dummy_nitor.name
-thaumictinkerer:share_book, Tome of Knowledge Sharing
-thaumictinkerer:black_quartz, Smokey Quartz
-thaumictinkerer:connector, Transvector Binder
-thaumictinkerer:soul_mould, Soul Mould
-thaumictinkerer:energetic_nitor, Energetic Nitor
-thaumictinkerer:spellbinding_cloth, Spellbinding Cloth
-thaumictinkerer:blood_sword, Cursed Spirit's Blade
-thaumictinkerer:mob_aspect, item.thaumictinkerer:mob_aspect.name
 travelersbackpack:travelers_backpack:0, Traveler's Backpack
 travelersbackpack:travelers_backpack:1, Traveler's Backpack
 travelersbackpack:travelers_backpack:2, Traveler's Backpack
@@ -11566,4 +11647,491 @@ byg:purple_enchanted_sapling, Silver Maple Sapling
 byg:structure_spawn_block, Structure Spawn Block
 byg:black_puff, Black Puff
 byg:glowcanepink, Pink Glowcane
+lycanitesmobs:shadowstonebrick_stairs, Shadowstone Brick Stairs
+lycanitesmobs:ashenstone_slab:0, Ashenstone Slab
+lycanitesmobs:whirlwindcharge, Whirlwind Charge
+lycanitesmobs:searing_taco, Searing Taco
+lycanitesmobs:cooked_ika_meat, Cooked Ika Meat
+lycanitesmobs:cooked_chupacabra_meat, Cooked Chupacabra Meat
+lycanitesmobs:undeadspawn:0, Spawn Undead: Wendigo
+lycanitesmobs:undeadspawn:0, Spawn Undead: Amalgalich
+lycanitesmobs:undeadspawn:0, Spawn Undead: Geist
+lycanitesmobs:undeadspawn:0, Spawn Undead: Necrovore
+lycanitesmobs:undeadspawn:0, Spawn Undead: Ghoul
+lycanitesmobs:undeadspawn:0, Spawn Undead: Cryptkeeper
+lycanitesmobs:undeadspawn:0, Spawn Undead: Reaper
+lycanitesmobs:shadowstonetile_stairs, Shadowstone Tile Stairs
+lycanitesmobs:shadowstonebrick_fence, Shadowstone Brick Fence
+lycanitesmobs:bruchaquill, Brucha Quill
+lycanitesmobs:geonachspear, Geonach Spear
+lycanitesmobs:soul_contract,  Soul Contract
+lycanitesmobs:frostweb, Frostweb
+lycanitesmobs:seashell_maki, Seashell Maki
+lycanitesmobs:impspawn:0, Spawn Imp: Gnekk
+lycanitesmobs:impspawn:0, Spawn Imp: Pixen
+lycanitesmobs:impspawn:0, Spawn Imp: Clink
+lycanitesmobs:impspawn:0, Spawn Imp: Arix
+lycanitesmobs:impspawn:0, Spawn Imp: Afrit
+lycanitesmobs:bloodsummoningstaff, Blood Summoning Staff
+lycanitesmobs:demoncrystal, Demon Crystal
+lycanitesmobs:beastspawn:0, Spawn Beast: Jabberwock
+lycanitesmobs:beastspawn:0, Spawn Beast: Wraamon
+lycanitesmobs:beastspawn:0, Spawn Beast: Barghest
+lycanitesmobs:beastspawn:0, Spawn Beast: Conba
+lycanitesmobs:beastspawn:0, Spawn Beast: Warg
+lycanitesmobs:beastspawn:0, Spawn Beast: Kobold
+lycanitesmobs:beastspawn:0, Spawn Beast: Maka Alpha
+lycanitesmobs:beastspawn:0, Spawn Beast: Chupacabra
+lycanitesmobs:beastspawn:0, Spawn Beast: Bobeko
+lycanitesmobs:beastspawn:0, Spawn Beast: Maug
+lycanitesmobs:beastspawn:0, Spawn Beast: Dawon
+lycanitesmobs:beastspawn:0, Spawn Beast: Brucha
+lycanitesmobs:beastspawn:0, Spawn Beast: Maka
+lycanitesmobs:beastspawn:0, Spawn Beast: Feradon
+lycanitesmobs:beastspawn:0, Spawn Beast: Epion
+lycanitesmobs:beastspawn:0, Spawn Beast: Balayang
+lycanitesmobs:soulstone_undead, Undead Soulstone
+lycanitesmobs:soulstone_imp, Imp Soulstone
+lycanitesmobs:shadowcrystal, Shadow Crystal
+lycanitesmobs:raw_joust_meat, Raw Jouste Meat
+lycanitesmobs:ashenstonetile, Ashenstone Tile
+lycanitesmobs:planttreat, Plant Treat
+lycanitesmobs:acidglobcharge, Acid Glob Charge
+lycanitesmobs:reptilespawn:0, Spawn Reptile: Arisaur
+lycanitesmobs:reptilespawn:0, Spawn Reptile: Thresher
+lycanitesmobs:reptilespawn:0, Spawn Reptile: Aspid
+lycanitesmobs:reptilespawn:0, Spawn Reptile: Khalk
+lycanitesmobs:reptilespawn:0, Spawn Reptile: Geken
+lycanitesmobs:desertstonechiseled, Chiseled Desertstone
+lycanitesmobs:streamstonepolished, Polished Streamstone
+lycanitesmobs:saddle_elemental, Elemental Saddle
+lycanitesmobs:shadowstone_slab_double, Double Shadowstone Slab
+lycanitesmobs:dragontreat, Dragon Treat
+lycanitesmobs:astarothclaw, Astaroth Claw
+lycanitesmobs:shadowstonechiseled, Chiseled Shadowstone
+lycanitesmobs:apollyonclaw, Apollyon Claw
+lycanitesmobs:saddle_plant, Plant Saddle
+lycanitesmobs:slimetreat, Slime Treat
+lycanitesmobs:ashenstone_slab_double, Double Ashenstone Slab
+lycanitesmobs:shadowfire, Shadowfire
+lycanitesmobs:saddle_dragon, Dragon Saddle
+lycanitesmobs:bucketpoison, Poison Bucket
+lycanitesmobs:lushstone_stairs, Lushstone Stairs
+lycanitesmobs:aberrantstonebrick_slab:0, Aberrantstone Brick Slab
+lycanitesmobs:icefireballcharge, item.icefireballcharge.name
+lycanitesmobs:ashenstonebrick_stairs, Ashenstone Brick Stairs
+lycanitesmobs:quillcharge, item.quillcharge.name
+lycanitesmobs:lushstonebrick_fence, Lushstone Brick Fence
+lycanitesmobs:ashenstonepillar, Ashenstone Pillar
+lycanitesmobs:saddle_slime, Slime Saddle
+lycanitesmobs:aberrantstonebrick, Aberrantstone Brick
+lycanitesmobs:acid, tile.acid.name
+lycanitesmobs:lushstonebrick_stairs, Lushstone Brick Stairs
+lycanitesmobs:frostcloud, Frostcloud
+lycanitesmobs:streamstonetile, Streamstone Tile
+lycanitesmobs:elementaltreat, Elemental Treat
+lycanitesmobs:ironaxehead, Iron Axe Head
+lycanitesmobs:soulstone_arachnid, Arachnid Soulstone
+lycanitesmobs:aberrantstonebrick_stairs, Aberrantstone Brick Stairs
+lycanitesmobs:rabbitooze, tile.rabbitooze.name
+lycanitesmobs:shadowstone, Shadowstone
+lycanitesmobs:undeadtreat, Undead Treat
+lycanitesmobs:faeboltcharge, Faebolt Charge
+lycanitesmobs:clinkscythe, Clink Scythe
+lycanitesmobs:sharacid, tile.sharacid.name
+lycanitesmobs:lushstonebrick_slab:0, Lushstone Brick Slab
+lycanitesmobs:saddle_anthronian, Anthronian Saddle
+lycanitesmobs:ashenstonetile_slab:0, Ashenstone Tile Slab
+lycanitesmobs:ironrod, Iron Rod
+lycanitesmobs:ashenstonebrick_fence, Ashenstone Brick Fence
+lycanitesmobs:embercharge, Ember Charge
+lycanitesmobs:demontreat, Demon Treat
+lycanitesmobs:pale_soup, Pale Soup
+lycanitesmobs:cooked_yale_meat, Cooked Yale Meat
+lycanitesmobs:streamstonebrick_wall, Streamstone Brick Wall
+lycanitesmobs:wargskull, Warg Skull
+lycanitesmobs:soulstone_aquatic, Aquatic Soulstone
+lycanitesmobs:arixbrain, Arix Brain
+lycanitesmobs:imptreat, Imp Treat
+lycanitesmobs:raw_aspid_meat, Raw Aspid Meat
+lycanitesmobs:cooked_aspid_meat, Cooked Aspid Meat
+lycanitesmobs:aquaticspawn:0, Spawn Aquatic: Skylus
+lycanitesmobs:aquaticspawn:0, Spawn Aquatic: Herma
+lycanitesmobs:aquaticspawn:0, Spawn Aquatic: Lacedon
+lycanitesmobs:aquaticspawn:0, Spawn Aquatic: Roa
+lycanitesmobs:aquaticspawn:0, Spawn Aquatic: Cephignis
+lycanitesmobs:aquaticspawn:0, Spawn Aquatic: Silex
+lycanitesmobs:aquaticspawn:0, Spawn Aquatic: Abaia
+lycanitesmobs:aquaticspawn:0, Spawn Aquatic: Abtu
+lycanitesmobs:aquaticspawn:0, Spawn Aquatic: Stryder
+lycanitesmobs:aquaticspawn:0, Spawn Aquatic: Ioray
+lycanitesmobs:lifedraincharge, Life Drain Charge
+lycanitesmobs:veshoney, tile.veshoney.name
+lycanitesmobs:streamcrystal, Stream Crystal
+lycanitesmobs:shadowstone_stairs, Shadowstone Stairs
+lycanitesmobs:lushstonetile_slab:0, Lushstone Tile Slab
+lycanitesmobs:arcanelaserstormcharge, Arcane Laser Storm Charge
+lycanitesmobs:dragonspawn:0, Spawn Dragon: Quetzodracl
+lycanitesmobs:dragonspawn:0, Spawn Dragon: Cockatrice
+lycanitesmobs:dragonspawn:0, Spawn Dragon: Morock
+lycanitesmobs:dragonspawn:0, Spawn Dragon: Ignibus
+lycanitesmobs:dragonspawn:0, Spawn Dragon: Zoataur
+lycanitesmobs:dragonspawn:0, Spawn Dragon: Remobra
+lycanitesmobs:serpixmandible, Serpix Mandible
+lycanitesmobs:raw_concapede_meat, Raw Concapede Meat
+lycanitesmobs:cooked_joust_meat, Cooked Jouste Meat
+lycanitesmobs:ironpikejoint, Iron Pike Joint
+lycanitesmobs:aetherwavecharge, Aetherwave Charge
+lycanitesmobs:soulkey, Soulkey
+lycanitesmobs:demonstone, Demonstone
+lycanitesmobs:soulstone_dragon, Dragon Soulstone
+lycanitesmobs:aberrantstonechiseled, Chiseled Aberrantstone
+lycanitesmobs:ashenstonepolished, Polished Ashenstone
+lycanitesmobs:demonstonebrick_slab:0, Demonstone Brick Slab
+lycanitesmobs:aberrantstonetile_slab:0, Aberrantstone Tile Slab
+lycanitesmobs:ashenstone, Ashenstone
+lycanitesmobs:darklingskull, Darkling Skull
+lycanitesmobs:streamstonepillar, Streamstone Pillar
+lycanitesmobs:cherufecore, Cherufe Core
+lycanitesmobs:lacedonhead, Lacedon Head
+lycanitesmobs:saddle_reptile, Reptile Saddle
+lycanitesmobs:cleansingcrystal, Cleansing Crystal
+lycanitesmobs:soulstone_aberration, Aberration Soulstone
+lycanitesmobs:malwratheye, Malwrath Eye
+lycanitesmobs:tundracharge, Tundra Charge
+lycanitesmobs:arachnidspawn:0, Spawn Arachnid: Sutiramu
+lycanitesmobs:arachnidspawn:0, Spawn Arachnid: Frostweaver
+lycanitesmobs:arachnidspawn:0, Spawn Arachnid: Lycosa
+lycanitesmobs:ooze, Ooze
+lycanitesmobs:demonstone_stairs, Demonstone Stairs
+lycanitesmobs:aberrantstone_slab_double, Double Aberrantstone Slab
+lycanitesmobs:soulstone_elemental, Elemental Essencestone
+lycanitesmobs:desertstonetile, Desertstone Tile
+lycanitesmobs:desertstone_slab_double, Double Desertstone Slab
+lycanitesmobs:cooked_silex_meat, Cooked Silex Meat
+lycanitesmobs:tricksterflarecharge, item.tricksterflarecharge.name
+lycanitesmobs:saddle_undead, Undead Saddle
+lycanitesmobs:cooked_cephignis_meat, Cooked Cephignis Meat
+lycanitesmobs:anthronianspawn:0, Spawn Anthronian: Wildkin
+lycanitesmobs:anthronianspawn:0, Spawn Anthronian: Troll
+lycanitesmobs:anthronianspawn:0, Spawn Anthronian: Ettin
+lycanitesmobs:saddle_avian, Avian Saddle
+lycanitesmobs:desertstonetile_slab:0, Desertstone Tile Slab
+lycanitesmobs:desertstone_slab:0, Desertstone Slab
+lycanitesmobs:lushstonebrick_wall, Lushstone Brick Wall
+lycanitesmobs:shadowstone_slab:0, Shadowstone Slab
+lycanitesmobs:sprigganroot, Spriggan Root
+lycanitesmobs:cooked_concapede_meat, Cooked Concapede Meat
+lycanitesmobs:wintergift, Winter Gift
+lycanitesmobs:lushcrystal, Lush Crystal
+lycanitesmobs:aberrantcrystal, Aberrant Crystal
+lycanitesmobs:saddle_demon, Demon Saddle
+lycanitesmobs:wormtreat, Worm Treat
+lycanitesmobs:propolis, Propolis
+lycanitesmobs:scorchfire, Scorchfire
+lycanitesmobs:demonstonepillar, Demonstone Pillar
+lycanitesmobs:streamstonebrick_slab:0, Streamstone Brick Slab
+lycanitesmobs:demonicblastcharge, item.demonicblastcharge.name
+lycanitesmobs:wintergiftlarge, Large Winter Gift
+lycanitesmobs:naxiriseye, Naxiris Eye
+lycanitesmobs:bloodleechcharge, Bloodleech Charge
+lycanitesmobs:desertstonebrick_stairs, Desertstone Brick Stairs
+lycanitesmobs:savagesummoningstaff, Savage Summoning Staff
+lycanitesmobs:ashenstonetile_stairs, Ashenstone Tile Stairs
+lycanitesmobs:soulcubedemonic, Demonic Soulcube
+lycanitesmobs:cinderblade, Cinder Blade
+lycanitesmobs:geonachfist, Geonach Fist
+lycanitesmobs:woodenpaxel, Wooden Paxel
+lycanitesmobs:soulstone_reptile, Reptile Soulstone
+lycanitesmobs:soulstone_worm, Worm Soulstone
+lycanitesmobs:desertstonebrick_wall, Desertstone Brick Wall
+lycanitesmobs:aberrantstone_slab:0, Aberrantstone Slab
+lycanitesmobs:shadowstonepolished, Polished Shadowstone
+lycanitesmobs:frostwebcharge, Frostweb Charge
+lycanitesmobs:woodenhilt, Wooden Guard
+lycanitesmobs:shadowstonebrick, Shadowstone Brick
+lycanitesmobs:equipment, Crafted Equipment
+lycanitesmobs:soulstone_avian, Avian Soulstone
+lycanitesmobs:caecilian_ramen, Caecilian Ramen
+lycanitesmobs:insecttreat, Insect Treat
+lycanitesmobs:chaosorbcharge, Chaos Orb Charge
+lycanitesmobs:poisonraycharge, item.poisonraycharge.name
+lycanitesmobs:aquatictreat, Aquatic Treat
+lycanitesmobs:aberrationspawn:0, Spawn Aberration: Naxiris
+lycanitesmobs:aberrationspawn:0, Spawn Aberration: Trite
+lycanitesmobs:aberrationspawn:0, Spawn Aberration: Shade
+lycanitesmobs:aberrationspawn:0, Spawn Aberration: Asmodeus
+lycanitesmobs:aberrationspawn:0, Spawn Aberration: Yale
+lycanitesmobs:aberrationspawn:0, Spawn Aberration: Grell
+lycanitesmobs:aberrationspawn:0, Spawn Aberration: Astaroth
+lycanitesmobs:aberrationspawn:0, Spawn Aberration: Krake
+lycanitesmobs:aberrationspawn:0, Spawn Aberration: Grigori
+lycanitesmobs:spectretendril, Spectre Tendril
+lycanitesmobs:lushstone_slab_double, Double Lushstone Slab
+lycanitesmobs:soulgazer, Soulgazer
+lycanitesmobs:streamstonetile_slab:0, Streamstone Tile Slab
+lycanitesmobs:wormspawn:0, Spawn Worm: Crusk
+lycanitesmobs:wormspawn:0, Spawn Worm: Serpix
+lycanitesmobs:wormspawn:0, Spawn Worm: Ika
+lycanitesmobs:wormspawn:0, Spawn Worm: Gorger
+lycanitesmobs:demonstonetile, Demonstone Tile
+lycanitesmobs:desertstonebrick, Desertstone Brick
+lycanitesmobs:doomfireballcharge, item.doomfireballcharge.name
+lycanitesmobs:devilstarcharge, Devilstar Charge
+lycanitesmobs:shadowstonetile_slab:0, Shadowstone Tile Slab
+lycanitesmobs:eechetikarm, Eechetik Arm
+lycanitesmobs:shadowstonebrick_wall, Shadowstone Brick Wall
+lycanitesmobs:bucketmoglava, Moglava Bucket
+lycanitesmobs:streamstonechiseled, Chiseled Streamstone
+lycanitesmobs:sturdysummoningstaff, Sturdy Summoning Staff
+lycanitesmobs:lushstonetile_stairs, Lushstone Tile Stairs
+lycanitesmobs:demonstonebrick_stairs, Demonstone Brick Stairs
+lycanitesmobs:sprigganheart, Spriggan Heart
+lycanitesmobs:bansheeeye, Banshee Eye
+lycanitesmobs:saddle_beast, Beast Saddle
+lycanitesmobs:saddle_imp, Imp Saddle
+lycanitesmobs:desertstone_stairs, Desertstone Stairs
+lycanitesmobs:tropical_curry, Tropical Curry
+lycanitesmobs:conbabutt, Conba Butt
+lycanitesmobs:sylphwing, Sylph Wing
+lycanitesmobs:ashenstone_stairs, Ashenstone Stairs
+lycanitesmobs:battle_burrito, Battle Burrito
+lycanitesmobs:blood_chili, Blood Chili
+lycanitesmobs:aberrantstonebrick_wall, Aberrantstone Brick Wall
+lycanitesmobs:soulstone_demon, Demon Soulstone
+lycanitesmobs:grueclaw, Grue Claw
+lycanitesmobs:immunizer, Immunizer
+lycanitesmobs:halloweentreat, Halloween Treat
+lycanitesmobs:streamstone_slab:0, Streamstone Slab
+lycanitesmobs:saddle_insect, Insect Saddle
+lycanitesmobs:moglava, Moglava
+lycanitesmobs:lapis_fish_and_chips, Lapis Fish and Chips
+lycanitesmobs:magmacharge, Magma Charge
+lycanitesmobs:frostboltcharge, Frostbolt Charge
+lycanitesmobs:avianspawn:0, Spawn Avian: Uvaraptor
+lycanitesmobs:avianspawn:0, Spawn Avian: Roc
+lycanitesmobs:avianspawn:0, Spawn Avian: Raiko
+lycanitesmobs:avianspawn:0, Spawn Avian: Ventoraptor
+lycanitesmobs:desertstonetile_stairs, Desertstone Tile Stairs
+lycanitesmobs:afritlung, Afrit Lung
+lycanitesmobs:angeltreat, Angel Treat
+lycanitesmobs:aberrantstonebrick_fence, Aberrantstone Brick Fence
+lycanitesmobs:quickweb, Quickweb
+lycanitesmobs:remobrawing, Remobra Wing
+lycanitesmobs:desertstonebrick_fence, Desertstone Brick Fence
+lycanitesmobs:spectralboltcharge, Spectral Bolt Charge
+lycanitesmobs:doomfire, Doomfire
+lycanitesmobs:moss_pie, Moss Pie
+lycanitesmobs:uvaraptorskull, Uvaraptor Skull
+lycanitesmobs:cooked_bobeko_meat, Cooked Bobeko Meat
+lycanitesmobs:desertstonepolished, Polished Desertstone
+lycanitesmobs:summoningstaff, Summoning Staff
+lycanitesmobs:demonstonechiseled, Chiseled Demonstone
+lycanitesmobs:venomshotcharge, Venomshot Charge
+lycanitesmobs:explorers_risotto, Explorers Risotto
+lycanitesmobs:aberrantstone, Aberrantstone
+lycanitesmobs:hellfire, Hellfire
+lycanitesmobs:icefire, Icefire
+lycanitesmobs:wildkinarm, Wildkin Arm
+lycanitesmobs:poison, tile.poison.name
+lycanitesmobs:equipment_station, tile.equipment_station.name
+lycanitesmobs:boulderblastcharge, Boulder Blast Charge
+lycanitesmobs:ashenstonechiseled, Chiseled Ashenstone
+lycanitesmobs:peaks_kebab, Peaks Kebab
+lycanitesmobs:hellfireballcharge, item.hellfireballcharge.name
+lycanitesmobs:mobtoken, Mob Token
+lycanitesmobs:scorchfireballcharge, item.scorchfireballcharge.name
+lycanitesmobs:soulstone_anthronian, Anthronian Soulstone
+lycanitesmobs:wraithsigil, Wraith Sigil
+lycanitesmobs:throwingscythecharge, item.throwingscythecharge.name
+lycanitesmobs:soulcubeaberrant, Aberrant Soulcube
+lycanitesmobs:acidsplashcharge, Acid Splash Charge
+lycanitesmobs:streamstonetile_stairs, Streamstone Tile Stairs
+lycanitesmobs:aberrantstonepolished, Polished Aberrantstone
+lycanitesmobs:desertstone, Desertstone
+lycanitesmobs:zephyrcloud, Zephyr Cloud
+lycanitesmobs:sutiramustinger, Sutiramu Stinger
+lycanitesmobs:ironhilt, Iron Guard
+lycanitesmobs:lobdarklingscharge, Lob Darklings Charge
+lycanitesmobs:frostweaverleg, Frostweaver Leg
+lycanitesmobs:anthroniantreat, Anthronian Treat
+lycanitesmobs:wendigoantler, Wendigo Antler
+lycanitesmobs:epionwing, Epion Wing
+lycanitesmobs:lushstonetile, Lushstone Tile
+lycanitesmobs:desertstonepillar, Desertstone Pillar
+lycanitesmobs:raw_krake_meat, Raw Krake Meat
+lycanitesmobs:stablesummoningstaff, Stable Summoning Staff
+lycanitesmobs:demonstonebrick_wall, Demonstone Brick Wall
+lycanitesmobs:raw_yale_meat, Raw Yale Meat
+lycanitesmobs:vespidstinger, Vespid Stinger
+lycanitesmobs:argustail, Argus Tail
+lycanitesmobs:equipmentforge_lesser, Lesser Equipment Forge (Lvl 1)
+lycanitesmobs:golemtreat, Golem Treat
+lycanitesmobs:raw_pinky_meat, Raw Pinky Meat
+lycanitesmobs:cooked_pinky_meat, Cooked Pinky Meat
+lycanitesmobs:vesspoison, tile.vesspoison.name
+lycanitesmobs:soulkeyemerald, Emerald Soulkey
+lycanitesmobs:poopcharge, Poop
+lycanitesmobs:frostfire, Frostfire
+lycanitesmobs:bucketveshoney, Veshoney Bucket
+lycanitesmobs:aquapulsecharge, Aqua Pulse Charge
+lycanitesmobs:saddle_amphibian, Amphibian Saddle
+lycanitesmobs:equipmentforge_master, Master Equipment Forge (Lvl 3)
+lycanitesmobs:aberrantstonetile, Aberrantstone Tile
+lycanitesmobs:aberrantstone_stairs, Aberrantstone Stairs
+lycanitesmobs:insectspawn:0, Spawn Insect: Vespid Queen
+lycanitesmobs:insectspawn:0, Spawn Insect: Eyewig
+lycanitesmobs:insectspawn:0, Spawn Insect: Vespid
+lycanitesmobs:insectspawn:0, Spawn Insect: Concapede
+lycanitesmobs:insectspawn:0, Spawn Insect: Jouste
+lycanitesmobs:insectspawn:0, Spawn Insect: Jouste Alpha
+lycanitesmobs:insectspawn:0, Spawn Insect: Gorgomite
+lycanitesmobs:insectspawn:0, Spawn Insect: Darkling
+lycanitesmobs:insectspawn:0, Spawn Insect: Ostimien
+lycanitesmobs:insectspawn:0, Spawn Insect: Calpod
+lycanitesmobs:insectspawn:0, Spawn Insect: Erepede
+lycanitesmobs:insectspawn:0, Spawn Insect: Concapede Segment
+lycanitesmobs:aberrationtreat, Aberration Treat
+lycanitesmobs:ashenstonebrick_wall, Ashenstone Brick Wall
+lycanitesmobs:ventoraptorskull, Ventoraptor Skull
+lycanitesmobs:geistliver, Geist Liver
+lycanitesmobs:cooked_krake_meat, Cooked Krake Meat
+lycanitesmobs:ioraystinger, Ioray Stinger
+lycanitesmobs:aviantreat, Avian Treat
+lycanitesmobs:streamstone, Streamstone
+lycanitesmobs:streamstonebrick_fence, Streamstone Brick Fence
+lycanitesmobs:cooked_arisaur_meat, Cooked Arisaur Meat
+lycanitesmobs:ashenstonebrick, Ashenstone Brick
+lycanitesmobs:lightballcharge, item.lightballcharge.name
+lycanitesmobs:desertstonebrick_slab:0, Desertstone Brick Slab
+lycanitesmobs:entarm, Ent Arm
+lycanitesmobs:elementalspawn:0, Spawn Elemental: Spriggan
+lycanitesmobs:elementalspawn:0, Spawn Elemental: Tremor
+lycanitesmobs:elementalspawn:0, Spawn Elemental: Vapula
+lycanitesmobs:elementalspawn:0, Spawn Elemental: Geonach
+lycanitesmobs:elementalspawn:0, Spawn Elemental: Cinder
+lycanitesmobs:elementalspawn:0, Spawn Elemental: Reiver
+lycanitesmobs:elementalspawn:0, Spawn Elemental: Jengu
+lycanitesmobs:elementalspawn:0, Spawn Elemental: Spectre
+lycanitesmobs:elementalspawn:0, Spawn Elemental: Banshee
+lycanitesmobs:elementalspawn:0, Spawn Elemental: Grue
+lycanitesmobs:elementalspawn:0, Spawn Elemental: Aegis
+lycanitesmobs:elementalspawn:0, Spawn Elemental: Raidra
+lycanitesmobs:elementalspawn:0, Spawn Elemental: Zephyr
+lycanitesmobs:elementalspawn:0, Spawn Elemental: Eechetik
+lycanitesmobs:elementalspawn:0, Spawn Elemental: Wraith
+lycanitesmobs:elementalspawn:0, Spawn Elemental: Sylph
+lycanitesmobs:elementalspawn:0, Spawn Elemental: Volcan
+lycanitesmobs:elementalspawn:0, Spawn Elemental: Wisp
+lycanitesmobs:elementalspawn:0, Spawn Elemental: Argus
+lycanitesmobs:elementalspawn:0, Spawn Elemental: Nymph
+lycanitesmobs:elementalspawn:0, Spawn Elemental: Xaphan
+lycanitesmobs:mudshotcharge, Mudshot Charge
+lycanitesmobs:raw_ika_meat, Raw Ika Meat
+lycanitesmobs:frostyfur, Frosty Fur
+lycanitesmobs:reaperclaw, Reaper Claw
+lycanitesmobs:erepededrill, Erepede Drill
+lycanitesmobs:goldscepterhead, Gold Scepter Head
+lycanitesmobs:lushstonepillar, Lushstone Pillar
+lycanitesmobs:streamstone_slab_double, Double Streamstone Slab
+lycanitesmobs:saddle_worm, Worm Saddle
+lycanitesmobs:saddle_arachnid, Arachnid Saddle
+lycanitesmobs:raw_arisaur_meat, Raw Arisaur Meat
+lycanitesmobs:raidrablade, Raidra Blade
+lycanitesmobs:crystalshardcharge, item.crystalshardcharge.name
+lycanitesmobs:soulstone_golem, Golem Soulstone
+lycanitesmobs:primeembercharge, item.primeembercharge.name
+lycanitesmobs:bucketacid, Acid Bucket
+lycanitesmobs:soulstone, Soulstone
+lycanitesmobs:poopcloud, Poop Cloud
+lycanitesmobs:summoningpedestal, Summoning Pedestal
+lycanitesmobs:lushstonepolished, Polished Lushstone
+lycanitesmobs:raw_silex_meat, Raw Silex Meat
+lycanitesmobs:plantspawn:0, Spawn Plant: Triffid
+lycanitesmobs:plantspawn:0, Spawn Plant: Treant
+lycanitesmobs:plantspawn:0, Spawn Plant: Tpumpkyn
+lycanitesmobs:plantspawn:0, Spawn Plant: Ent
+lycanitesmobs:plantspawn:0, Spawn Plant: Shambler
+lycanitesmobs:paleo_salad, Paleo Salad
+lycanitesmobs:poisongland, Poison Gland
+lycanitesmobs:behemophethand, Behemophet Hand
+lycanitesmobs:primefire, Primefire
+lycanitesmobs:saddle_angel, Angel Saddle
+lycanitesmobs:bucketsharacid, Sharacid Bucket
+lycanitesmobs:bucketooze, Ooze Bucket
+lycanitesmobs:wraithskull, Wraith Skull
+lycanitesmobs:smitefireballcharge, Smite Fireball Charge
+lycanitesmobs:golemspawn:0, Spawn Golem: Cherufe
+lycanitesmobs:demonstone_slab:0, Demonstone Slab
+lycanitesmobs:belphegorarm, Belphegor Arm
+lycanitesmobs:woodenrod, Wooden Rod
+lycanitesmobs:ashenstonebrick_slab:0, Ashenstone Brick Slab
+lycanitesmobs:bulwark_burger, Bulwark Burger
+lycanitesmobs:poisoncloud, Poison Cloud
+lycanitesmobs:saddle_aquatic, Aquatic Saddle
+lycanitesmobs:cooked_maka_meat, Cooked Maka Meat
+lycanitesmobs:shadowstonetile, Shadowstone Tile
+lycanitesmobs:aberrantstonepillar, Aberrantstone Pillar
+lycanitesmobs:saddle_aberration, Aberration Saddle
+lycanitesmobs:amphibiantreat, Amphibian Treat
+lycanitesmobs:desertcrystal, Desert Crystal
+lycanitesmobs:arachnidtreat, Arachnid Treat
+lycanitesmobs:soulstone_plant, Plant Soulstone
+lycanitesmobs:lushstone_slab:0, Lushstone Slab
+lycanitesmobs:raw_maka_meat, Raw Maka Meat
+lycanitesmobs:demonstonebrick_fence, Demonstone Brick Fence
+lycanitesmobs:streamstone_stairs, Streamstone Stairs
+lycanitesmobs:xaphanspine, Xaphan Spine
+lycanitesmobs:beasttreat, Beast Treat
+lycanitesmobs:lushstonechiseled, Chiseled Lushstone
+lycanitesmobs:gammasphere, Gamma Sphere
+lycanitesmobs:ettinclub, Ettin Club
+lycanitesmobs:saddle_golem, Golem Saddle
+lycanitesmobs:stryderheart, Stryder Heart
+lycanitesmobs:soulcubeundead, Undead Soulcube
+lycanitesmobs:equipment_infuser, tile.equipment_infuser.name
+lycanitesmobs:demonstonetile_slab:0, Demonstone Tile Slab
+lycanitesmobs:bucketrabbitooze, Rabbitooze Bucket
+lycanitesmobs:raw_chupacabra_meat, Raw Chupacabra Meat
+lycanitesmobs:shadowstonebrick_slab:0, Shadowstone Brick Slab
+lycanitesmobs:ashencrystal, Ashen Crystal
+lycanitesmobs:soulstone_angel, Angel Soulstone
+lycanitesmobs:soulkeydiamond, Diamond Soulkey
+lycanitesmobs:lushstone, Lushstone
+lycanitesmobs:soulstone_beast, Beast Soulstone
+lycanitesmobs:shadowstonepillar, Shadowstone Pillar
+lycanitesmobs:lushstonebrick, Lushstone Brick
+lycanitesmobs:bucketvesspoison, Vesspoison Bucket
+lycanitesmobs:amphibianspawn:0, Spawn Amphibian: Aglebemu
+lycanitesmobs:amphibianspawn:0, Spawn Amphibian: Salamander
+lycanitesmobs:amphibianspawn:0, Spawn Amphibian: Ningen
+lycanitesmobs:streamstonebrick_stairs, Streamstone Brick Stairs
+lycanitesmobs:vapulacrystal, Vapula Crystal
+lycanitesmobs:soulstone_insect, Insect Soulstone
+lycanitesmobs:reptiletreat, Reptile Treat
+lycanitesmobs:blizzardcharge, Blizzard Charge
+lycanitesmobs:raw_bobeko_meat, Raw Bobeko Meat
+lycanitesmobs:soulstone_amphibian, Amphibian Soulstone
+lycanitesmobs:demonspawn:0, Spawn Demon: Vorach
+lycanitesmobs:demonspawn:0, Spawn Demon: Behemophet
+lycanitesmobs:demonspawn:0, Spawn Demon: Belphegor
+lycanitesmobs:demonspawn:0, Spawn Demon: Kathoga
+lycanitesmobs:demonspawn:0, Spawn Demon: Apollyon
+lycanitesmobs:demonspawn:0, Spawn Demon: Malwrath
+lycanitesmobs:demonspawn:0, Spawn Demon: Rahovart
+lycanitesmobs:demonstone_slab_double, Double Demonstone Slab
+lycanitesmobs:waterjetcharge, Water Jet Charge
+lycanitesmobs:devil_lasagna, Devil Lasagna
+lycanitesmobs:aberrantstonetile_stairs, Aberrantstone Tile Stairs
+lycanitesmobs:reiverhorns, Reiver Horns
+lycanitesmobs:eyewigeye, Eyewig Eye
+lycanitesmobs:soulstone_slime, Slime Soulstone
+lycanitesmobs:equipmentforge_greater, Greater Equipment Forge (Lvl 2)
+lycanitesmobs:amber_cake, Amber Cake
+lycanitesmobs:streamstonebrick, Streamstone Brick
+lycanitesmobs:demonstonebrick, Demonstone Brick
+lycanitesmobs:veswax, Veswax
+lycanitesmobs:demonstonepolished, Polished Demonstone
+lycanitesmobs:demonstonetile_stairs, Demonstone Tile Stairs
+lycanitesmobs:ironpaxel, Iron Paxel
 patchouli:guide_book, Guide Book
