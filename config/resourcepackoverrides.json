@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "failed_reloads_per_session": 5,
+  "default_packs": [
+    "file/Stay_True_1.18.zip",
+    "file/Created Storage Network 1.2.zip",
+    "file/Xaero's Minimap - Mod Icons.zip",
+    "file/Forbidden_GUI_Dakmode_v3.zip",
+    "file/NoBushyLeaves.zip"
+  ],
+  "default_overrides": {
+    "file/Repurposed_Structures-Better_Dungeons_v3.zip": {
+      "hidden": true
+    },
+    "file/Repurposed_Structures-Better_Strongholds_v3.zip": {
+      "hidden": true
+    },
+    "file/Repurposed_Structures-Better_Witch_Huts_v1.zip": {
+      "hidden": true
+    },
+    "file/Repurposed_Structures-Farmers_Delight_v3.zip": {
+      "hidden": true
+    },
+    "file/Repurposed_Structures-Friends_And_Foes-v1.zip": {
+      "hidden": true
+    },
+    "file/Repurposed_Structures-Chef's_Delight_v1.zip": {
+      "hidden": true
+    },
+    "Everycomp Generated Pack": {
+      "hidden": true
+    },
+    "Supplementaries Generated Pack": {
+      "hidden": true
+    },
+    "dynamic_asset_generator:client": {
+      "hidden": true
+    },
+    "quark:emote_resources": {
+      "hidden": true
+    },
+    "Immersive Weathering Generated Pack": {
+      "hidden": true
+    },
+    "Snowyspirit Generated Pack": {
+      "hidden": true
+    }
+  }
+}
